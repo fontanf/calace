@@ -43,4 +43,4 @@ jobs:
             --title "Latest master" \
             --notes "PDF scores and parts built from ${GITHUB_SHA} on master." \
             --target "${GITHUB_SHA}" \
-            --prerelease
+            --latest
