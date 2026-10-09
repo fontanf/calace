@@ -1,0 +1,46 @@
+name: Build scores
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  LILYPOND_VERSION: 2.26.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install LilyPond
+        run: |
+          curl -sSL -o lilypond.tar.gz \
+            "https://gitlab.com/lilypond/lilypond/-/releases/v${LILYPOND_VERSION}/downloads/lilypond-${LILYPOND_VERSION}-linux-x86_64.tar.gz"
+          tar -xzf lilypond.tar.gz -C "$HOME"
+          echo "LILY=$HOME/lilypond-${LILYPOND_VERSION}/bin/lilypond" >> "$GITHUB_ENV"
+
+      - name: Build scores and parts
+        run: ./build.sh --dist
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: scores
+          path: dist/
+
+      - name: Publish "latest" release
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete latest --cleanup-tag --yes || true
+          gh release create latest dist/* \
+            --title "Latest master" \
+            --notes "PDF scores and parts built from ${GITHUB_SHA} on master." \
+            --target "${GITHUB_SHA}" \
+            --prerelease

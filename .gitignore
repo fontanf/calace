@@ -1,0 +1,15 @@
+# Manuscript scans and generated scores are not versioned:
+# the PDFs are built by CI and published in the "latest" release.
+*.pdf
+*.midi
+*.mid
+out/
+dist/
+
+# Python
+.venv/
+__pycache__/
+
+# Override a global "build*" ignore rule
+!build.sh
+!build.yml
