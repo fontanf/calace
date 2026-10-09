@@ -11,29 +11,29 @@
 % Rehearsal marks (letters in the manuscript), shared by score and parts.
 marks = {
   \set Score.rehearsalMarkFormatter = #format-mark-box-alphabet
+  % Each \barNumberCheck makes the build warn if a skip count is wrong.
   s2.*12
-  \mark \default                       % A = bar 13
+  \barNumberCheck #13 \mark \default                 % A
   s2.*14
-  \tempo "Un poco più"                  % bar 27
+  \barNumberCheck #27 \tempo "Un poco più"
   s2.*4
-  \mark \default                       % B = bar 31
-  s2.*13
-  \bar "||"                             % end of bar 44
-  \bar ".|:" \mark \default             % C = bar 45, repeat bars 45-48
+  \barNumberCheck #31 \mark \default                 % B
+  s2.*14
+  \barNumberCheck #45 \bar ".|:-||" \mark \default    % C, repeat bars 45-48
   s2.*4
-  \bar ":|.|:"                          % repeat bars 49-52
+  \barNumberCheck #49 \bar ":|.|:"                    % repeat bars 49-52
   s2.*4
-  \bar ":|."
+  \barNumberCheck #53 \bar ":|."
   s2.*6
-  \mark \default                       % D = bar 59
+  \barNumberCheck #59 \mark \default                 % D
   s2.*2
-  \bar "||"                             % key change at bar 61
+  \barNumberCheck #61 \bar "||"                       % key change
   s2.*24
-  \mark \default                       % E = bar 85
+  \barNumberCheck #85 \mark \default                 % E
   s2.*15
-  \mark \default                       % F = bar 100
-  s2.*11
-  \bar "|."                             % end
+  \barNumberCheck #100 \mark \default                % F
+  s2.*12
+  \barNumberCheck #112 \bar "|."                      % end, after bar 111
 }
 
 global = <<

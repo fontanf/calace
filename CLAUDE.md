@@ -54,6 +54,10 @@ PDFs. Their names are prefixed with the piece, e.g. `09512-Novelletta-score.pdf`
 - Rehearsal letters go in `marks` in `global.ly` (`\mark \default` after `s2.*N`),
   never in a single part, so that every part gets them. The same applies to
   repeat barlines and the final `\bar "|."`.
+  Put a `\barNumberCheck #N` before every event in `marks`. Counting the
+  `s2.*N` skips by hand went wrong once (C, the repeats and every later letter
+  were one bar early, and the user caught it), and these checks make the build
+  warn instead. The final barline goes after the last bar, so its check is last bar + 1.
 - Key changes are written in each part's music, e.g. `\key b \major`.
 - `instruments.ly` sets `Hairpin.minimum-length = 5`, because Calace often puts
   `< >` over a single long note.
