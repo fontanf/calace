@@ -16,7 +16,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Install LilyPond
         run: |
@@ -28,7 +28,7 @@ jobs:
       - name: Build scores and parts
         run: ./build.sh --dist
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: scores
           path: dist/
