@@ -58,7 +58,7 @@ mandolinoII = {
   g'!2. |                                                                % 46
   eis'2( eis'4) |                                                        % 47 CHECK
   cis'8(_\markup \italic "rall." e' gis' ais' b'4) |                     % 48 CHECK
-  fis'2.^\markup \italic "Tempo" |                                      % 49
+  gis'2.^\markup \italic "Tempo" |                                      % 49
   % --- manuscript page 5 (09512-05) ---
   fisis'2.\< |                                                           % 50 CHECK
   eis'2.\! |                                                             % 51 CHECK
