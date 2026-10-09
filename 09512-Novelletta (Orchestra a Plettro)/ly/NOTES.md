@@ -63,13 +63,13 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 48, Mandolini II: uncertain reading
 - bar 48, Mandoloncelli: uncertain reading
 - bar 49, Basso: uncertain reading
-- bar 49, Chitarre: uncertain reading
+- bar 49, Chitarre: rest of bar
 - bar 49, Mandoloncelli: uncertain reading
 
 ### Manuscript page 5 (bars 50–61)
 
 - bar 50, Basso: uncertain reading
-- bar 50, Chitarre: chord
+- bar 50, Chitarre: rest of bar
 - bar 50, Mandole: uncertain reading
 - bar 50, Mandolini II: uncertain reading
 - bar 51, Basso: uncertain reading

@@ -54,9 +54,9 @@ chitarre = {
   <b e' g'! b' e''>2. |                                                  % 46
   <b eis' gis' b' d''!>2( <b eis'>4) |                                   % 47 CHECK
   b8(_\markup \italic "rall." e' a d') <b dis' fis' b' dis''>4 |        % 48 CHECK
-  <b dis' fis' b'>4^\markup \italic "Tempo" dis''16( b' cis'' dis'') gis''8 r8 | % 49 CHECK
+  <gis gis' b' dis''>4^\markup \italic "Tempo" dis''16( b' cis'' dis'') gis''8 r8 | % 49 CHECK rest of bar
   % --- manuscript page 5 (09512-05) ---
-  <dis' fisis' a' cis''>4 dis''16( b' cis'' dis'') fisis''8 r8 |         % 50 CHECK chord
+  <fisis fisis' b' dis''>4 dis''16( b' cis'' dis'') fisis''8 r8 |        % 50 CHECK rest of bar
   <cis' eis' gis' b'>2. |                                                % 51 CHECK
   <dis' b'>8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <fis' ais' e''>8\staccato r8\! | % 52
   <e' gis' b' dis''>8\pp r8 r4 r4 |                                      % 53 CHECK chord
