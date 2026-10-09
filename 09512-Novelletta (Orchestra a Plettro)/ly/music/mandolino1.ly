@@ -55,7 +55,7 @@ mandolinoI = {
   cis''4~ cis''16( dis'' cis'' b' cis'' dis'' cis'' b') |                % 46 CHECK 2nd group
   cis''4~ cis''16( dis'' cis'' b' ais'8 b') |                            % 47
   fis'8(_\markup \italic "rall." b'16 cis'') cis''8( \grace { fis''16 gis'' } fis''8) dis''4 | % 48 CHECK rhythm
-  dis''4^\markup \italic "Tempo" b'8( cis''16 dis'' gis''8 b'') |       % 49 CHECK
+  dis''16(^\markup \italic "Tempo" b' cis'' dis'' gis''2) |             % 49
   % --- manuscript page 5 (09512-05) ---
   dis''16( b' cis'' dis'' fisis''2) |                                    % 50
   dis''16(\< b' cis'' dis'' fis'' gis'' b'' ais'') b''4\! |              % 51

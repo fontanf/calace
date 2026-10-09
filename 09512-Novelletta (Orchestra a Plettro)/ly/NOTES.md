@@ -64,7 +64,6 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 48, Mandoloncelli: uncertain reading
 - bar 49, Basso: uncertain reading
 - bar 49, Chitarre: uncertain reading
-- bar 49, Mandolini I: uncertain reading
 - bar 49, Mandoloncelli: uncertain reading
 
 ### Manuscript page 5 (bars 50–61)
