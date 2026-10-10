@@ -85,13 +85,13 @@ chitarre = {
   ees8 <f'! a' c''!> <f' a' c''> <a' c'' f''> d' <a' d'' f''> |        % 72 CHECK flat or natural on the bass
   <a e' a' c''!>8 e' a' c'' e'' a'' |                                   % 73
   % --- manuscript page 7 (09512-07) ---
-  g''8 d'' <gis' d'' f''!> a' <gis' b' e''>4 |                           % 74 CHECK whole bar
-  a8 <e' cis''> <e' d''> <e' cis''> a d'' |                              % 75 CHECK whole bar
-  <a e' g' cis''>4 e'8( d' cis' a') |                                    % 76 CHECK whole bar
-  <d' a' d''>8 fis' a' c''! ees'' g'' |                                  % 77 CHECK whole bar
-  d'8( c''! ees'' a' g' fis') |                                          % 78 CHECK whole bar
-  g8 <g' bes'> <bes' d''> <g' bes'> <bes' d''> <g' bes'> |               % 79 CHECK whole bar
-  <g d' b' f''!>8\ff d' c'! b aes' g' |                                  % 80 CHECK
+  g''8 d'' <gis' b' f''!> a' <e gis' b' d''>4 |                         % 74 CHECK 4th eighth a' or gis'
+  a8 <e' b' cis''> <e' b' cis''> <e' b' cis''> d' d'' |                 % 75 CHECK
+  <a e' g' cis'' e''>8 e' d' cis' bes' a' |                             % 76
+  <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
+  <d' fis''>8 c''! <a' ees''-4> a' fis' d' |                            % 78 CHECK two voices, dense
+  g8 <g' bes'> <bes' f''> <g' bes'> <bes' f''> <e' a' c''!> |           % 79 CHECK chords
+  <g d' g' b' f''!>8\ff d' c'! b aes' g' |                              % 80
   <c' ees' g' c''!>8 r8 r4 r4 |                                          % 81
   <c' ees' g' c''!>8\> r8 r4 r4 |                                        % 82
   c'!8\pp-. fis'-. a'-. c''-. ees''-. fis''-. |                          % 83 CHECK
