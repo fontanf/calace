@@ -38,7 +38,7 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 41, Mandole: first and last note
 - bar 41, Mandoloncelli: uncertain reading
 - bar 42, Mandoloncelli: uncertain reading
-- bar 43, Chitarre: accidentals (fingerings 0 0 0 / 2 3 1 not reproduced)
+- bar 43, Chitarre: other chords (fingerings 0 0 0 / 2 3 1 not reproduced)
 - bar 43, Mandole: uncertain reading
 - bar 43, Mandolini II: fis'
 - bar 43, Mandoloncelli: uncertain reading
