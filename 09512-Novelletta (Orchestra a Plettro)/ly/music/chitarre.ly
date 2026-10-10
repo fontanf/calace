@@ -89,7 +89,7 @@ chitarre = {
   a8 <e' bes' cis''> <e' bes' cis''> <e' bes' cis''> d' d'' |                 % 75
   <a e' g' cis'' e''>8 e' d' cis' bes' a' |                             % 76
   <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
-  <d' fis''>8 c''! <a' ees''-4> a' fis' d' |                            % 78 CHECK two voices, dense
+  <d' fis''>8 c''! <fis' a' ees''-4> a' fis' d' |                            % 78 CHECK two voices, dense
   g8 <g' bes'> <bes' f''> <g' bes'> <bes' f''> <e' a' c''!> |           % 79 CHECK chords
   <g d' g' b' f''!>8\ff d' c'! b aes' g' |                              % 80
   <c' ees' g' c''!>8 r8 r4 r4 |                                          % 81
