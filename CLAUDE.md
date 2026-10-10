@@ -100,7 +100,12 @@ Tool notes:
 - A quarter rest looks like "λ", an eighth rest like "7", and an eighth flag often like "♭".
 - Dynamics are written **below the staff they belong to**. A lone `p` or `pp`
   under the guitar's bass notes is *piano*, not a thumb mark (confirmed by the
-  user). There are almost no fingerings.
+  user). Fingerings are rare, but **include them when present** (user's
+  request): inside a chord, put one on each note, `<g'-0 b'-0 e''-0>`. Numbers
+  written beside a chord are listed top to bottom on the page.
+- A stack of short strokes above a note is usually **ledger lines** for a very
+  high note, not a chord or tremolo. For example guitar bar 44 of the
+  Novelletta is a single F♯6, which I first misread as chords.
 - He writes many hairpins (often `< >` over a single long note) and staccato
   dots on accompaniment eighths. Look below every staff for them, as they are
   easy to miss (the user caught omissions on the first page).

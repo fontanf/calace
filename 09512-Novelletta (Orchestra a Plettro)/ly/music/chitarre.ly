@@ -48,7 +48,7 @@ chitarre = {
   b4 <a' d'' fis''> a |                                                  % 40 CHECK beat 3
   fis8 r8 r4 r4 |                                                        % 41
   fis8 r8 r4 r4 |                                                        % 42
-  <fis' b' d''>4 <g' b' e''> <b' e'' g''> |                              % 43 CHECK (fingerings 0 0 0 / 2 3 1 not reproduced)
+  <fis' b' d''>4 <g'-0 b'-0 e''-0> <b'-2 e''-3 g''-1> |                  % 43
   g''16(_\markup \italic "sentito" fis'' eis'' fis'') fis'''4~ fis'''8\fermata r8 | % 44
   \key b \major
   <b dis' fis' b' dis''>2.\pppp |                                        % 45
