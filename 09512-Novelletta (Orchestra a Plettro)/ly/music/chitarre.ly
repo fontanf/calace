@@ -57,18 +57,18 @@ chitarre = {
   fis8(_\markup \italic "rall." gis b cis') <b fis' b' dis''>4 |        % 48
   <gis gis' b' dis''>4^\markup \italic "Tempo" dis''16( b' cis'' dis'') gis''8 r8 | % 49 CHECK rest of bar
   % --- manuscript page 5 (09512-05) ---
-  <fisis fisis' b' dis''>4 dis''16( b' cis'' dis'') fisis''8 r8 |        % 50 CHECK rest of bar
-  <cis' eis' gis' b'>2. |                                                % 51 CHECK
-  <dis' b'>8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <fis' ais' e''>8\staccato r8\! | % 52
-  <e' gis' b' dis''>8\pp r8 r4 r4 |                                      % 53 CHECK chord
-  <b dis' fis' b'>16(\mf b cis' dis' fis'4 e') |                         % 54 CHECK
+  <fisis fisis' b' dis''>4 dis''16( b' cis'' dis'') fisis''8 r8 |        % 50
+  <gis gis' b' e''>2. |                                                 % 51
+  <dis' b'>8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <fis'-2 ais' e''-4>8\staccato r8\! | % 52
+  <b dis' fis' b' dis''>8\pp r8 r4 r4 |                                  % 53 CHECK voicing
+  <b dis' fis' b' dis''>16(\mf b cis' dis' fis'4 e') |                   % 54 CHECK chord voicing
   R2. |                                                                  % 55
-  <b dis' fis' b'>16( b cis' dis' fis'4 e') |                            % 56 CHECK (chord with tremolo strokes)
-  cis'8 fis'16( b' dis'' dis'' cis'' b' cis''8) <gis' b' dis''>8 |       % 57 CHECK
-  dis''16(_\markup \italic "molto lento" e'' fis'' gis'' fis''8) r8 <e' b' cis'' e''>4\fermata | % 58 CHECK
-  <b fis' b' d''! fis''>2.\ff |                                          % 59
-  << { \voiceOne <e' g'!>2^\markup \italic "I° Tempo" <ais' cis'' e''>8 r8 }
-     \new Voice { \voiceTwo ais4 cis' fis8 s8 } >> \oneVoice |           % 60 CHECK
+  <b dis' fis' b' dis''>16( b cis' dis' fis'4 e') |                      % 56 CHECK chord voicing
+  cis'16( fis' b' dis'') dis''( cis'' b' cis'') <gis' b' dis''>4 |       % 57
+  dis''16(_\markup \italic "molto lento" e'' fis'' g''! fis''8) r8 <e' b' e''>4\fermata | % 58
+  <b d'! fis' b' d''!>2.\ff |                                           % 59
+  << { \voiceOne <e' g'!>2^\markup \italic "I° Tempo" <ais' cis''>8 r8 }
+     \new Voice { \voiceTwo ais4 cis' fis8 s8 } >> \oneVoice |           % 60
   \key b \minor
   b8\mf <b' d''> <d'' fis''> <b' d''> <d'' fis''> <b' d''> |             % 61
   % --- manuscript page 6 (09512-06) ---
@@ -77,13 +77,13 @@ chitarre = {
   b8 <b' d''>\> <d'' fis''> <b' d''> <d'' fis''> <b' d''> |              % 64
   <b b' d'' fis''>4\!\pp r4 r4 |                                         % 65
   << { \voiceTwo ais4 cis' fis' } \new Voice { \voiceOne <e' g' cis''>2. } >> \oneVoice | % 66
-  <b fis'>8 g'! a' g' fis' a' |                                          % 67
-  <dis' b'>8 c''! fis' c'' b' a' |                                       % 68
+  b8 g'! a' g' fis' a' |                                                % 67
+  b'8 c''! fis' c'' b' a' |                                             % 68
   e8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 69
-  e8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 70 CHECK bass
-  c'!8 <a' c''!> <c'' e''> <a' c''> <c'' e''> <e'' a''> |                % 71 CHECK
-  <g b d'>8 <f'! a' c''!> <f' a' c''> <a' c''> c' <a' d'' f''!> |        % 72 CHECK
-  a8 e' a' c''! e'' a'' |                                                % 73
+  b8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 70
+  c'!8 <e' a' c''!> <a' c''> <a' c'' e''> <a' c'' e''> <c'' e'' a''> |  % 71 CHECK 5th chord
+  ees8 <f'! a' c''!> <f' a' c''> <a' c'' f''> d' <a' d'' f''> |        % 72 CHECK flat or natural on the bass
+  <a e' a' c''!>8 e' a' c'' e'' a'' |                                   % 73
   % --- manuscript page 7 (09512-07) ---
   g''8 d'' <gis' d'' f''!> a' <gis' b' e''>4 |                           % 74 CHECK whole bar
   a8 <e' cis''> <e' d''> <e' cis''> a d'' |                              % 75 CHECK whole bar

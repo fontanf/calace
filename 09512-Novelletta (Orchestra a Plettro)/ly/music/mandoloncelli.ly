@@ -80,7 +80,7 @@ mandoloncelli = {
   e2. |                                                                  % 69
   g,2. |                                                                 % 70 CHECK
   a,8( c! e a c'! e') |                                                  % 71
-  g2 d4 |                                                                % 72 CHECK
+  f!2 d4 |                                                               % 72
   a,8( e, a, c e a) |                                                    % 73 CHECK
   % --- manuscript page 7 (09512-07) ---
   g4 d8 f!8 e8 r8 |                                                      % 74

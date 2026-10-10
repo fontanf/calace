@@ -131,6 +131,13 @@ while reading:
   one note, not a chord or tremolo strokes (bars 37, 44). Count the ledger lines
   to fix the octave of low guitar notes: notes on the 1st, 2nd and 3rd ledger
   below the staff are C4, A3 and F3; notes hanging under them are B3, G3 and E3.
+- **Crowded ledger lines below the staff.** Calace squeezes them together, so a
+  low note's *position* can read a third too high (E3 looks like G3: guitar
+  bars 6, 62, 72). Trust the number of ledger strokes over the distance, and
+  cross-check with the Basso.
+- The column tool's pitch labels (`tools/column.py`) merge heads in dense
+  chords. Read chords against the `annotate.py` overlay (calibrated on bar 50),
+  and use `heads.py` only as a cross-check.
 - **Hollow heads** are two strokes, an arc plus a bowl. Do not count the arc as
   an extra note (the bogus B in Mandolini I bar 49).
 - **Key signature in a key change.** In the B major section, an unmarked G is G♯ (bar 49).
