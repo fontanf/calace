@@ -106,7 +106,7 @@ mandolinoI = {
   ees''2.\pp( |                                                         % 92
   dis''8) dis''( e''! fis'' e'' dis'') |                                 % 93
   e''2 g''!4 |                                                          % 94
-  d''2.\fff |                                                           % 95 CHECK D or D sharp
+  fis''2.\fff |                                                         % 95
   fis''8(_\markup \italic "stentato" g''-> ais''-> b''-> fis''-> b'->) | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   e''2( e''4) |                                                          % 97

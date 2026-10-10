@@ -105,7 +105,7 @@ mandoloncelli = {
   a,8( ees f ges f ees) |                                                % 92
   b,4 b, ais, |                                                         % 93 CHECK
   ais,4 cis e |                                                         % 94 CHECK
-  e4\fff dis cis |                                                      % 95 CHECK
+  e4\fff dis cis |                                                      % 95
   b,2 \tuplet 3/2 { d8(_\markup \italic "stentato" dis cis) } |         % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   e8( dis) cis2 |                                                       % 97

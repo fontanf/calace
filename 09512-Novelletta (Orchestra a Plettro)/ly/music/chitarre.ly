@@ -108,7 +108,7 @@ chitarre = {
   b4 <fis' b' dis''> <fis' a' dis''> |                                   % 93 CHECK
   cis'4 <gis' cis'' e''> <g'! cis'' e''> |                                % 94
   fis4\fff <fis' a' dis''> <e' a' cis''> |                              % 95
-  <b dis' fis' a' cis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" <b dis'> <b e'>) } | % 96 CHECK
+  <b fis' b' dis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" ais a) } | % 96
   % --- manuscript page 9 (09512-09) ---
   ais4 cis' <g'! b' e''> |                                              % 97 CHECK bass
   <b fis' b' dis''>4 r4 <a dis'>4 |                                    % 98 CHECK beat 3
