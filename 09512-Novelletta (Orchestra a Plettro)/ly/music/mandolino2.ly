@@ -102,15 +102,15 @@ mandolinoII = {
   % --- manuscript page 8 (09512-08) ---
   aes'2.(\ppp |                                                          % 86
   aes'4) bes'8( c'' bes' aes') |                                         % 87
-  f'!2.~ |                                                               % 88 CHECK
-  f'4 aes'8(\< bes' aes' g')\! |                                         % 89
+  f'!2.( |                                                              % 88
+  g'4) aes'8(\< bes' aes' g')\! |                                      % 89
   g'8 f'!( g' aes' g' f') |                                              % 90
   ees'8(_\markup \italic "cresc." ees' f'! g' f' ees') |                 % 91
-  f'!2.\pp( |                                                            % 92
+  ees'2.\pp( |                                                          % 92
   dis'8) dis'( e'! fis' e' cis') |                                       % 93 CHECK
-  fis'2 e''4 |                                                           % 94 CHECK
-  cis''4->\fff b'-> ais' |                                               % 95 CHECK
-  b'4_\markup \italic "stentato" ais'8( gis') fis'4 |                    % 96 CHECK
+  e'2 e''4~ |                                                           % 94 CHECK first note
+  e''4\fff dis''-> cis''-> |                                             % 95
+  b'4_\markup \italic "stentato" ais'8( gis') fis'4 |                    % 96
   % --- manuscript page 9 (09512-09) ---
   fis'2( g'4) |                                                          % 97
   e'2 fis'8( gis') |                                                     % 98 CHECK

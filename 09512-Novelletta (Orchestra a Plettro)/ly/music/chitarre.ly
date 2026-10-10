@@ -99,16 +99,16 @@ chitarre = {
   <g b d' g' b'>8\ff r8 r4 r4 |                                          % 85
   % --- manuscript page 8 (09512-08) ---
   <aes f'! c'' f''!>8\ppp d'( ees' e'! f'! ees') |                       % 86 CHECK chord
-  <bes, bes>4 <bes' d'' f''!> <bes' d'' fis''> |                         % 87 CHECK
-  <ees' g'>8 des'( d'! d' f' d') |                                       % 88 CHECK
+  bes4 <aes' d'' f''!> <aes' d'' fis''> |                               % 87 CHECK bass octave
+  <ees' g'>8 bes( c'! c' ees' c') |                                     % 88 CHECK
   des'4\< <g' bes' des''> <g' bes' des''>\! |                            % 89 CHECK
-  c'!4 <g' bes' d''> <g' bes' d''> |                                     % 90 CHECK
-  c'!4_\markup \italic "cresc." <f' aes' d''> <f' aes' d''> |            % 91 CHECK
-  c'4 <ees' a' c'' ges''> <ees' a' c'' a''> |                            % 92 CHECK
+  f4 <f'! aes' c''!> <f' aes' c''> |                                    % 90
+  c'!4_\markup \italic "cresc." <ees' g' c''!> <ees' g' c''> |          % 91
+  a4 <ees' a' c'' ges''> <ees' a' c'' a''> |                             % 92 CHECK flat on the top note
   b4 <fis' b' dis''> <fis' b' dis''> |                                   % 93 CHECK
-  cis'4 <g' cis'' e''> <g' cis'' e''> |                                  % 94 CHECK
+  cis'4 <g'! cis'' e''> <g' cis'' e''> |                                % 94
   ais4\fff <fis' ais' cis''> <e' ais' cis''> |                           % 95 CHECK
-  <b dis' fis' a' cis''>2 \tuplet 3/2 { cis'8(_\markup \italic "stentato" dis' e'!) } | % 96 CHECK
+  <b dis' fis' a' cis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" <b dis'> <b e'>) } | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   ais4 cis' <e' g' cis''> |                                              % 97 CHECK
   <b dis' fis'>4 r4 <dis b>4 |                                           % 98 CHECK

@@ -99,14 +99,14 @@ mandoloncelli = {
   r8\ppp d( ees e! f! ees) |                                             % 86
   d4 bes,2 |                                                             % 87
   r8 bes,( b,! d ees d) |                                                % 88 CHECK
-  ees2.\< |                                                              % 89 CHECK
+  des2.\< |                                                             % 89 CHECK
   c!2\! bes,4 |                                                          % 90
   c!4(_\markup \italic "cresc." ees g) |                                 % 91
   a,8( ees f ges f ees) |                                                % 92
-  b,4 dis fis |                                                          % 93 CHECK
-  a,4 g, c |                                                             % 94 CHECK
-  fis4\fff e cis |                                                       % 95 CHECK
-  a2 \tuplet 3/2 { e8(_\markup \italic "stentato" dis d!) } |            % 96 CHECK
+  b,4 b, ais, |                                                         % 93 CHECK
+  ais,4 cis e |                                                         % 94 CHECK
+  e4\fff dis cis |                                                      % 95 CHECK
+  b,2 \tuplet 3/2 { d8(_\markup \italic "stentato" dis cis) } |         % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   e8( dis) b,2 |                                                         % 97
   cis2 dis4 |                                                            % 98 CHECK

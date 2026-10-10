@@ -99,14 +99,14 @@ basso = {
   f!2.\pp |                                                              % 86
   bes,2. |                                                               % 87
   ees2. |                                                                % 88
-  f!2.\< |                                                               % 89 CHECK (e?)
+  des2.\< |                                                             % 89 CHECK
   f!2\! g4 |                                                             % 90
-  b,2._\markup \italic "cresc." |                                        % 91
-  a,4\pp ees ees |                                                       % 92 CHECK
+  c!2._\markup \italic "cresc." |                                      % 91
+  a,4\pp ees ees |                                                       % 92
   b,2. |                                                                 % 93 CHECK
   cis2. |                                                                % 94 CHECK
   fis4\fff r4 fis,4 |                                                    % 95
-  g,2._\markup \italic "stentato" |                                      % 96 CHECK
+  b,2._\markup \italic "stentato" |                                     % 96
   % --- manuscript page 9 (09512-09) ---
   e8( dis) b,2 |                                                         % 97
   fis4 r4 fis,4 |                                                        % 98

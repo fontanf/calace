@@ -98,8 +98,8 @@ mandole = {
   % --- manuscript page 8 (09512-08) ---
   f'!2.\ppp |                                                            % 86
   bes'2. |                                                               % 87
-  ees'2. |                                                               % 88 CHECK
-  e'!2.\< |                                                              % 89 CHECK
+  ees'2. |                                                               % 88
+  ees'2.\< |                                                            % 89 CHECK flat or natural
   f'!2\! g'4 |                                                           % 90
   c'!2._\markup \italic "cresc." |                                       % 91
   r8 ees'8( f' ges' f' ees') |                                           % 92

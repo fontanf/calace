@@ -98,16 +98,16 @@ mandolinoI = {
   g'8\ff g''(_\markup \italic "stentato" fis''-> a''-> fis''-> a''->) |   % 85
   % --- manuscript page 8 (09512-08) ---
   aes''2.(\ppp |                                                         % 86
-  aes''4) aes''8( a''! g'' aes'') |                                      % 87 CHECK
+  aes''4) bes''8( c'''! bes'' aes'') |                                   % 87
   g''2.~ |                                                               % 88
   g''4 aes''8(\< bes'' aes'' g'')\! |                                    % 89
-  r8 f''!8( g'' aes'' g'' f'') |                                         % 90
-  ees''8(_\markup \italic "cresc." f'' g''! a'' g'' f'') |               % 91 CHECK
-  f''!2.\pp( |                                                           % 92 CHECK
-  dis''8) dis''( e''! fis'' e'' dis'') |                                 % 93 CHECK
-  e''2 g''4 |                                                            % 94 CHECK
-  fis''2.\fff |                                                          % 95 CHECK pitch
-  fis''8(_\markup \italic "stentato" a''-> ais''-> b''-> fis''-> d''->) | % 96 CHECK whole bar
+  g''8 f''!( g'' aes'' g'' f'') |                                       % 90
+  ees''8(_\markup \italic "cresc." ees'' f''! g'' f'' ees'') |         % 91
+  ees''2.\pp( |                                                         % 92
+  dis''8) dis''( e''! fis'' e'' dis'') |                                 % 93
+  e''2 g''!4 |                                                          % 94
+  d''2.\fff |                                                           % 95 CHECK D or D sharp
+  fis''8(_\markup \italic "stentato" g''-> ais''-> b''-> fis''-> b'->) | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   e''2( e''4) |                                                          % 97
   dis''16( cis'' d'' e'' cis''8 b') fis'8( gis') |                       % 98 CHECK
