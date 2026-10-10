@@ -98,7 +98,7 @@ chitarre = {
   ees''8-. b'!-. c''-. d''-. ees''-. aes'-. |                            % 84
   <g b d' g' b'>8\ff r8 r4 r4 |                                          % 85
   % --- manuscript page 8 (09512-08) ---
-  <aes f'! c'' f''!>8\ppp d'( ees' e'! f'! ees') |                       % 86 CHECK chord
+  <f! aes' c''! f''!>8\ppp d'( ees' e'! f'! ees') |                       % 86
   bes4 <aes' d'' f''!> <aes' d'' fis''> |                               % 87 CHECK bass octave
   <ees' g'>8 bes( c'! c' ees' c') |                                     % 88 CHECK
   des'4\< <g' bes' des''> <g' bes' des''>\! |                            % 89 CHECK
