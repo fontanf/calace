@@ -47,7 +47,7 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 44, Mandoloncelli: uncertain reading
 - bar 45, Mandolini I: 8th note
 - bar 46, Mandolini I: 2nd group
-- bar 47, Chitarre: uncertain reading
+- bar 47, Chitarre: first chord
 - bar 47, Mandole: uncertain reading
 - bar 47, Mandolini II: uncertain reading
 - bar 48, Chitarre: uncertain reading

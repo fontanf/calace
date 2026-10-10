@@ -53,7 +53,7 @@ chitarre = {
   \key b \major
   <b dis' fis' b' dis''>2.\pppp |                                        % 45
   <b e' g'! b' e''>2. |                                                  % 46
-  <b eis' gis' b' d''!>2( <b eis'>4) |                                   % 47 CHECK
+  <b eis' gis' b' d''!>2( gis4) |                                        % 47 CHECK first chord
   b8(_\markup \italic "rall." e' a d') <b dis' fis' b' dis''>4 |        % 48 CHECK
   <gis gis' b' dis''>4^\markup \italic "Tempo" dis''16( b' cis'' dis'') gis''8 r8 | % 49 CHECK rest of bar
   % --- manuscript page 5 (09512-05) ---
