@@ -85,7 +85,7 @@ chitarre = {
   f!8 <f'! a' c''!> <f' a' c''> <a' c'' f''> d' <a' d'' f''> |        % 72
   <a e' a' c''! e''>8 e' a' c'' e'' a'' |                                   % 73
   % --- manuscript page 7 (09512-07) ---
-  g''8 d'' <gis' b' f''!> a' <e gis' b' e''>4 |                         % 74 CHECK 4th eighth a' or gis'
+  g''8 d'' <gis' b' f''!> a' <e gis' b' e''>4 |                         % 74
   a8 <e' b' cis''> <e' b' cis''> <e' b' cis''> d' d'' |                 % 75 CHECK
   <a e' g' cis'' e''>8 e' d' cis' bes' a' |                             % 76
   <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
