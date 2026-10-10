@@ -125,7 +125,7 @@ mandolinoII = {
   b'2( e'4) |                                                            % 106 CHECK
   fis'2.\ppp_\markup \italic "lento" |                                   % 107
   b4( dis' fis') |                                                       % 108 CHECK
-  b'8(^\markup \italic "tremolo" gis' fis' gis' fis' cis') |             % 109 CHECK
+  b'8(^\markup \italic "tremolo" gis' fis' gis' fis' dis') |             % 109
   b2. |                                                                 % 110
   <b dis'' fis''>8 r8 r4 r4 |                                           % 111 CHECK
 }
