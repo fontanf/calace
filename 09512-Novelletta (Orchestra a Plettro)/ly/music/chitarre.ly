@@ -90,7 +90,7 @@ chitarre = {
   <a e' g' cis'' e''>8 e' d' cis' bes' a' |                             % 76
   <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
   <a fis''>8 c''! <fis'-3 a'-1 ees''-4> g' fis' d' |                            % 78
-  g8 <g' bes'> <bes' f''> <g' bes'> <bes' f''> <e' a' c''!> |           % 79 CHECK chords
+  g8 <f'! aes' b'!> <aes' b' f''> <f' aes' b'> <aes' b' f''> <f' aes' c''!> | % 79
   <g d' g' b' f''!>8\ff d' c'! b aes' g' |                              % 80
   <c' ees' g' c''!>8 r8 r4 r4 |                                          % 81
   <c' ees' g' c''!>8\> r8 r4 r4 |                                        % 82
