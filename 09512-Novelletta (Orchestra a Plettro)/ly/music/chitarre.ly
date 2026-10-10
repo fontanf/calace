@@ -115,7 +115,7 @@ chitarre = {
   <fis fis' ais' e''>4\> <ais' cis'' g''> <fis ais' cis'' fis''>\fermata\! | % 99
   <b fis' b' dis''>2\ppp b'4 |                                           % 100
   <b e' g'!>2 g'4 |                                                  % 101
-  <b eis' gis'>2 <b eis' ais'>4 |                                       % 102 CHECK
+  <b e' gis'>2 <b e' ais'>4 |                                       % 102 CHECK
   <b dis' fis' b'>2 cis''4 |                                            % 103 CHECK grace notes before cis'' not reproduced
   <dis' fis' b'>4 <eis' gis' b'>2 |                                      % 104 CHECK
   <b dis' fis' b'>2 dis''4 |                                             % 105 CHECK
