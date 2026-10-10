@@ -83,7 +83,7 @@ chitarre = {
   b8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 70
   a8 <e' a' c''!> <e' a' c''> <a' c'' e''> <a' c'' e''> <c'' e'' a''> |  % 71 CHECK 5th chord
   ees8 <f'! a' c''!> <f' a' c''> <a' c'' f''> d' <a' d'' f''> |        % 72 CHECK flat or natural on the bass
-  <a e' a' c''!>8 e' a' c'' e'' a'' |                                   % 73
+  <a e' a' c''! e''>8 e' a' c'' e'' a'' |                                   % 73
   % --- manuscript page 7 (09512-07) ---
   g''8 d'' <gis' b' f''!> a' <e gis' b' d''>4 |                         % 74 CHECK 4th eighth a' or gis'
   a8 <e' b' cis''> <e' b' cis''> <e' b' cis''> d' d'' |                 % 75 CHECK
