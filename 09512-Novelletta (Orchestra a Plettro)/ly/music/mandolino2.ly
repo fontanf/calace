@@ -89,14 +89,14 @@ mandolinoII = {
   % --- manuscript page 7 (09512-07) ---
   b'4. a'8 gis'( d'') |                                                  % 74
   cis''2( d''4) |                                                        % 75
-  e''4 d''8( cis'' bes' a') |                                            % 76 CHECK
+  e''4 d''8( cis'' bes' a') |                                            % 76
   a'4. fis'8( a' c''!) |                                                 % 77
   a'4. g'8( fis' c''!) |                                                 % 78
   c''!2( c''4) |                                                         % 79 CHECK
   d''4\ff c''!8( bes' aes' g') |                                         % 80
   <ees' c''!>8 r8 r4 r4 |                                                % 81
   <ees' c''!>8\> r8 r4 r4 |                                              % 82
-  ees'8\pp c''4-> a'-> fis'8 |                                           % 83 CHECK
+  ees'8\pp c''4-> g'-> c'8 |                                            % 83 CHECK
   ees'8 d'4-> c'!-> c'8 |                                                % 84 CHECK
   b8\ff g'(_\markup \italic "stentato" fis'-> g'-> fis'-> g'->) |         % 85
   % --- manuscript page 8 (09512-08) ---

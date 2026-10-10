@@ -84,11 +84,11 @@ mandole = {
   <a c'>2.^\markup \italic "affrett." |                                 % 73 CHECK chord
   % --- manuscript page 7 (09512-07) ---
   f'!4 b'8( a') gis'4 |                                                  % 74
-  d''2( d''4) |                                                          % 75 CHECK
+  e''2( d''4) |                                                         % 75
   <ais' cis''>2. |                                                       % 76 CHECK
   c''!2 a'4 |                                                            % 77
   ees'4 a'8( g') fis'4 |                                                 % 78
-  d''2( d''4) |                                                          % 79 CHECK
+  d''2 c''!4 |                                                          % 79
   b'4\ff( d'' b') |                                                      % 80
   c''!8 r8 r4 r4 |                                                       % 81
   <c' ees' c''!>8\> r8 r4 r4 |                                           % 82

@@ -84,11 +84,11 @@ mandoloncelli = {
   a,8( e, a, c e a) |                                                    % 73 CHECK
   % --- manuscript page 7 (09512-07) ---
   g4 d8 f!8 e8 r8 |                                                      % 74
-  d2( d4) |                                                              % 75 CHECK
-  <a, cis>2 e4 |                                                         % 76 CHECK
-  d8( fis, a, c! ees g) |                                                % 77 CHECK
+  e2( d4) |                                                             % 75
+  cis2 e4 |                                                             % 76
+  d8( fis, a, c! ees g) |                                                % 77
   fis8( c!) ees4 d |                                                     % 78
-  d2 c!4 |                                                               % 79 CHECK
+  d2 c!4 |                                                               % 79
   b,4\ff d b, |                                                          % 80
   c!8 r8 r4 r4 |                                                         % 81
   c!8\> r8 r4 r4 |                                                       % 82

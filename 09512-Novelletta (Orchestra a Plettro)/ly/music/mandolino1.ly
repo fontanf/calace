@@ -85,14 +85,14 @@ mandolinoI = {
   e''4 r8 a'8(_\markup \italic "affrett." b' c''!) |                     % 73
   % --- manuscript page 7 (09512-07) ---
   d''4. f''!8( e'' d'') |                                                % 74
-  << { \voiceOne b''2.( } \new Voice { \voiceTwo cis''8 r8 r4 r4 } >> \oneVoice | % 75 CHECK
+  << { \voiceOne bes''2.( } \new Voice { \voiceTwo cis''8 r8 r4 r4 } >> \oneVoice |% 75 CHECK B flat (as in bar 79) or B
   bes''4 a'' g'') |                                                      % 76
   fis''4. fis'8( a' c''!) |                                              % 77
   ees''4. ees''8( d'' c''!) |                                            % 78
-  << { \voiceOne bes''2. } \new Voice { \voiceTwo b'!8 r8 r4 r4 } >> \oneVoice | % 79 CHECK
+  << { \voiceOne bes''2. } \new Voice { \voiceTwo b'!8 r8 r4 r4 } >> \oneVoice | % 79
   aes''4\ff( g'' f''!) |                                                 % 80
-  <g' ees''>8 g'( a'! b'! c''! d'') |                                    % 81 CHECK
-  ees''8\> b'!( c'' d'' e''! aes'') |                                    % 82 CHECK
+  <g' ees''>8 g'( a'! b'! c''! d'') |                                    % 81
+  ees''8\> b'!( c'' d'' ees'' aes'') |                                  % 82
   fis''8\pp a''4-> ees''-> c''8 |                                        % 83 CHECK
   b'8 c''!4-> aes'-> g'8 |                                               % 84
   g'8\ff g''(_\markup \italic "stentato" fis''-> a''-> fis''-> a''->) |   % 85
