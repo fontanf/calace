@@ -43,7 +43,6 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 43, Mandolini II: fis'
 - bar 43, Mandoloncelli: uncertain reading
 - bar 44, Basso: uncertain reading
-- bar 44, Chitarre: whole bar
 - bar 44, Mandole: uncertain reading
 - bar 44, Mandolini II: uncertain reading
 - bar 44, Mandoloncelli: uncertain reading
