@@ -73,7 +73,7 @@ chitarre = {
   b8\mf <b' d''> <d'' fis''> <b' d''> <d'' fis''> <b' d''> |             % 61
   % --- manuscript page 6 (09512-06) ---
   e8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 62
-  fis8 <ais' cis''> <cis'' fis''> <ais' cis''> ais <g' cis'' e''> |      % 63
+  fis8 <ais' cis''> <cis'' e''> <ais' cis''> ais <g' cis'' e''> |      % 63
   b8 <b' d''>\> <d'' fis''> <b' d''> <d'' fis''> <b' d''> |              % 64
   <b b' d'' fis''>4\!\pp r4 r4 |                                         % 65
   << { \voiceTwo ais4 cis' fis' } \new Voice { \voiceOne <e' g' cis''>2. } >> \oneVoice | % 66
