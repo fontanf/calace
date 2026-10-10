@@ -86,7 +86,7 @@ chitarre = {
   <a e' a' c''! e''>8 e' a' c'' e'' a'' |                                   % 73
   % --- manuscript page 7 (09512-07) ---
   g''8 d'' <gis' b' f''!> a' <e gis' b' e''>4 |                         % 74
-  a8 <e' b' cis''> <e' b' cis''> <e' b' cis''> d' d'' |                 % 75 CHECK
+  a8 <e' bes' cis''> <e' bes' cis''> <e' bes' cis''> d' d'' |                 % 75
   <a e' g' cis'' e''>8 e' d' cis' bes' a' |                             % 76
   <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
   <d' fis''>8 c''! <a' ees''-4> a' fis' d' |                            % 78 CHECK two voices, dense
