@@ -39,7 +39,7 @@ chitarre = {
   e'8 <g' b' e''> <g' b' e''> <g' b' e''> <g' b' e''> <g' b' e''> |      % 32
   bes8\< <e' g' d''> <e' g' d''> <e' g' d''> g <bes' cis''> |            % 33 CHECK
   fis8\! <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> | % 34
-  <d' fis' a' d'' fis''>2 <bes bes' e'' g''>4\fermata |                  % 35 CHECK
+  <d' a' d'' fis''>2 <g bes' e'' g''>4\fermata |                        % 35
   a8_\markup \italic "stent." <d' fis' a'> <fis' a' d''> <a' d'' fis''> <d'' fis'' a''> <fis'' a'' d'''> | % 36
   <fis'' a'' d'''>8 r8 r4 r4 |                                           % 37 CHECK
   a8\mf <e' g'> <e' g'> <e' g'> <e' g'> <e' g'> |                        % 38

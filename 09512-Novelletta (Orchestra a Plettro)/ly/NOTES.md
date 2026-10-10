@@ -23,7 +23,6 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 32, Mandole: b' or c''
 - bar 33, Chitarre: uncertain reading
 - bar 34, Basso: uncertain reading
-- bar 35, Chitarre: uncertain reading
 - bar 35, Mandole: chord
 - bar 35, Mandolini I: 4th note d' or cis'
 - bar 35, Mandoloncelli: chords
