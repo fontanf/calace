@@ -41,7 +41,7 @@ chitarre = {
   fis8\! <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> <a' d'' fis''> | % 34
   <d' a' d'' fis''>2 <g bes' e'' g''>4\fermata |                        % 35
   a8_\markup \italic "stent." <d' fis' a'> <fis' a' d''> <a' d'' fis''> <d'' fis'' a''> <fis'' a'' d'''> | % 36
-  <fis'' a'' d'''>8 r8 r4 r4 |                                           % 37 CHECK
+  <a'' d''' fis'''>8 r8 r4 r4 |                                          % 37
   a8\mf <e' g'> <e' g'> <e' g'> <e' g'> <e' g'> |                        % 38
   % --- manuscript page 4 (09512-04) ---
   d'4 <a' d'' fis''> cis' |                                              % 39

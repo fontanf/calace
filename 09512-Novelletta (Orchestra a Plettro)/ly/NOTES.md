@@ -28,7 +28,6 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 35, Mandoloncelli: chords
 - bar 36, Mandole: cis'
 - bar 36, Mandolini I: e' (d'?)
-- bar 37, Chitarre: uncertain reading
 - bar 37, Mandole: chord
 - bar 37, Mandoloncelli: chord
 - bar 38, Mandolini I: uncertain reading
