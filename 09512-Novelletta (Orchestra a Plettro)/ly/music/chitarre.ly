@@ -111,8 +111,8 @@ chitarre = {
   <b fis' b' dis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" ais a) } | % 96
   % --- manuscript page 9 (09512-09) ---
   gis4 cis' <g'! b' e''> |                                              % 97
-  <fis fis' b' dis''>4 r4 <b dis'>4 |                                   % 98 CHECK upper notes
-  <cis' fis' ais' e''>4\> <ais' cis''> <cis' ais' cis'' fis''>\fermata\! | % 99 CHECK
+  <fis fis' b' dis''>4 r4 <b dis'>4 |                                   % 98
+  <fis fis' ais' e''>4\> <ais' cis''> <fis ais' cis'' fis''>\fermata\! | % 99 CHECK upper notes
   <b dis' fis' b'>2\ppp b'4 |                                           % 100
   <b e' g'! b'>2 g'4 |                                                  % 101
   <b eis' gis'>2 <b eis' ais'>4 |                                       % 102 CHECK
