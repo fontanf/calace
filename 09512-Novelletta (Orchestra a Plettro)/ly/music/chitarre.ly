@@ -106,7 +106,7 @@ chitarre = {
   c'!4_\markup \italic "cresc." <ees' g' c''!> <ees' g' c''> |          % 91
   a4 <ees' a' c'' ges''> <ees' a' c'' ges''> |                             % 92
   b4 <fis' b' dis''> <fis' a' dis''> |                                   % 93 CHECK
-  cis'4 <g'! cis'' e''> <g' cis'' e''> |                                % 94
+  cis'4 <gis' cis'' e''> <g'! cis'' e''> |                                % 94
   ais4\fff <fis' ais' cis''> <e' ais' cis''> |                           % 95 CHECK
   <b dis' fis' a' cis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" <b dis'> <b e'>) } | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
