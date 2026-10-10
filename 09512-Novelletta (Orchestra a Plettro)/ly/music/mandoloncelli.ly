@@ -92,7 +92,7 @@ mandoloncelli = {
   b,4\ff d b, |                                                          % 80
   c!8 r8 r4 r4 |                                                         % 81
   c!8\> r8 r4 r4 |                                                       % 82
-  c!8\pp-. fis,-. a,-. c-. ees-. fis-. |                                 % 83 CHECK
+  c!8\pp-. g,-. a,-. b,-. c!-. d-. |                                    % 83
   ees8-. b,!-. c-. d-. ees-. aes,-. |                                    % 84
   d8\ff r8 r4 r4 |                                                       % 85
   % --- manuscript page 8 (09512-08) ---
