@@ -64,8 +64,8 @@ chitarre = {
   <b fis' b' dis''>16(\mf b cis' dis' fis'4 e') |                        % 54
   R2. |                                                                  % 55
   <b dis' fis' b' dis''>16( b cis' dis' fis'4 e') |                      % 56 CHECK chord voicing
-  dis'16( fis' b' cis'') dis''( cis'' b' cis'') <gis' b' dis''>4 |       % 57
-  r16_\markup \italic "molto lento" e''( fis'' g''! fis''8) r8 <e' b' cis'' e''>4\fermata | % 58
+  dis'16( fis' b' cis'') dis''( cis'' b' cis'') <gis' b' dis''~>4 |      % 57
+  dis''16_\markup \italic "molto lento" e''( fis'' g''! fis''8) r8 <e' b' cis'' e''>4\fermata | % 58
   <b fis' b' d''!>2.\ff |                                               % 59
   << { \voiceOne <e' g'!>2^\markup \italic "I° Tempo" <ais' cis''>8 r8 }
      \new Voice { \voiceTwo cis'4 ais fis8 s8 } >> \oneVoice |           % 60
