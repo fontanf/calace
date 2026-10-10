@@ -37,7 +37,7 @@ basso = {
   dis2.\pp |                                                             % 31
   e2. |                                                                  % 32
   bes,4 r4 g4 |                                                          % 33
-  fis2. |                                                                % 34 CHECK
+  fis2. |                                                                % 34
   d2 bes,4\fermata |                                                     % 35
   a,8( d fis a, d fis) |                                                 % 36
   a8 r8 r4 r4 |                                                          % 37

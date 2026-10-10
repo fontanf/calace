@@ -35,12 +35,12 @@ mandole = {
   a'2 g'4 |                                                              % 29
   fis'4.\< cis'8( fis' a') |                                             % 30
   c''!4\!\pp( dis' fis') |                                               % 31
-  b'2( g'4) |                                                            % 32 CHECK b' or c''
+  b'2( g'4) |                                                            % 32
   e'2( bes'4) |                                                          % 33
   a'4( fis' a') |                                                        % 34
   <a d'>2 bes4\fermata |                                                 % 35 CHECK chord
-  d'8_\markup \italic "stent."( cis' d' fis' a' d'') |                   % 36 CHECK cis'
-  <d' a' fis''>8 r8 r4 r4 |                                              % 37 CHECK chord
+  d'8_\markup \italic "stent."( a d' fis' a' d'') |                     % 36 CHECK first two notes
+  <d' a' fis''>8 r8 r4 r4 |                                              % 37
   a4\mf ais8( b c'! cis') |                                              % 38
   % --- manuscript page 4 (09512-04) ---
   d'2 cis'4 |                                                            % 39

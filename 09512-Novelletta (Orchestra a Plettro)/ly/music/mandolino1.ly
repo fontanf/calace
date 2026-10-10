@@ -34,15 +34,15 @@ mandolinoI = {
   b'4\p( bes'4. a'8) |                                                   % 27
   d''4( cis''4. d''8) |                                                  % 28
   fis''8( e'' a'' g'' e'' cis'') |                                       % 29
-  \grace { e''16[ d''] } b'8( e') a'2\< |                                % 30 CHECK grace notes
+  \grace { e''16[ d''] } b'8( fis') a'2\< |                             % 30 CHECK grace notes
   a''4\!\pp( g''8 fis'' e'' dis'') |                                     % 31
   fis''4( e''2) |                                                        % 32
   g''4( fis''8\< e'' d'' cis'') |                                        % 33
   e''4(\! d''8) fis'8( a' cis'') |                                       % 34
   b'8->( a'-> fis'-> d'->) \tuplet 3/2 { e'8 cis'\fermata e' } |         % 35 CHECK 4th note d' or cis'
-  e'2.(_\markup \italic "stent. dim." |                                  % 36 CHECK e' (d'?)
-  fis'4.) a'8( d' e') |                                                  % 37
-  e'2 fis'4 |                                                            % 38 CHECK
+  fis'2.(_\markup \italic "stent. dim." |                               % 36
+  fis'4.) a'8( cis' e') |                                               % 37
+  e'2 fis'4 |                                                            % 38
   % --- manuscript page 4 (09512-04) ---
   fis'2.\glissando |                                                     % 39 "gliss."
   e''2 r4 |                                                              % 40

@@ -37,8 +37,8 @@ mandolinoII = {
   g'4\p fis'8( e' cis' e') |                                             % 27
   g'4 e'8( cis' e' g') |                                                 % 28
   a'8( d'' cis'' b' bes' a') |                                           % 29
-  cis'4\< fis'2 |                                                        % 30 CHECK cis'
-  <b fis' c''!>8\!\pp r8 r4 r4 |                                         % 31 CHECK lowest note
+  cis'4\< fis'2 |                                                        % 30
+  <b fis' c''!>8\!\pp r8 r4 r4 |                                         % 31
   a'4\mf( g'8 fis' e' dis') |                                            % 32
   e'2\<( bes'4) |                                                        % 33
   a'4.\! fis'8( a' cis'') |                                              % 34

@@ -40,7 +40,7 @@ mandoloncelli = {
   a4. fis8( a cis') |                                                    % 34
   <a, fis d'>4 r4 <bes, g>4\fermata |                                    % 35 CHECK chords
   a,8_\markup \italic "stent. e dim."( d fis a d' fis') |                % 36
-  <d' fis' a'>8 r8 r4 r4 |                                               % 37 CHECK chord
+  <d' fis' a'>8 r8 r4 r4 |                                               % 37
   r8 a,8\mf( ais, b, c! cis) |                                           % 38
   % --- manuscript page 4 (09512-04) ---
   a,2.( |                                                                % 39
