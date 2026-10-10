@@ -121,7 +121,7 @@ chitarre = {
   <b fis' b'>2 \grace { cis''16[( dis''] } cis''4) |                    % 105
   % --- manuscript page 10 (09512-10) ---
   <b' dis'' fis''>2 \grace { gis''16[( ais''] } gis''8) ais'8 |        % 106
-  <b dis' fis' b' dis''>2.\ppp\arpeggio |                                % 107 CHECK
+  <b' dis'' fis'' b''>2.~\ppp\arpeggio |                                 % 107
   <b' dis'' fis'' b''>8\pp_\markup \italic "e lento assai" gis''( fis'' ais'' fis'' dis'') | % 108 CHECK
   b'8( gis' fis' gis' fis' cis') |                                      % 109 CHECK
   <fis b>2. |                                                           % 110 CHECK
