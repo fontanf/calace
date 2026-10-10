@@ -58,17 +58,17 @@ chitarre = {
   <gis gis' b' dis''>4^\markup \italic "Tempo" dis''16( b' cis'' dis'') gis''8 r8 | % 49 CHECK rest of bar
   % --- manuscript page 5 (09512-05) ---
   <fisis fisis' b' dis''>4 dis''16( b' cis'' dis'') fisis''8 r8 |        % 50
-  <gis gis' b' e''>2. |                                                 % 51
-  <dis' b'>8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <fis'-2 ais' e''-4>8\staccato r8\! | % 52
-  <b dis' fis' b' dis''>8\pp r8 r4 r4 |                                  % 53 CHECK voicing
-  <b dis' fis' b' dis''>16(\mf b cis' dis' fis'4 e') |                   % 54 CHECK chord voicing
+  <b fis' b' dis''>2 gis'16( e' fis' gis') |                             % 51
+  <dis' b'>8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <fis'-3 ais'-2 e''-4>8\staccato r8\! | % 52
+  <b fis' b' dis''>8\pp r8 r4 r4 |                                       % 53
+  <b fis' b' dis''>16(\mf b cis' dis' fis'4 e') |                        % 54
   R2. |                                                                  % 55
   <b dis' fis' b' dis''>16( b cis' dis' fis'4 e') |                      % 56 CHECK chord voicing
-  cis'16( fis' b' dis'') dis''( cis'' b' cis'') <gis' b' dis''>4 |       % 57
-  dis''16(_\markup \italic "molto lento" e'' fis'' g''! fis''8) r8 <e' b' e''>4\fermata | % 58
-  <b d'! fis' b' d''!>2.\ff |                                           % 59
+  dis'16( fis' b' cis'') dis''( cis'' b' cis'') <gis' b' dis''>4 |       % 57
+  r16_\markup \italic "molto lento" e''( fis'' g''! fis''8) r8 <e' b' cis'' e''>4\fermata | % 58
+  <b fis' b' d''!>2.\ff |                                               % 59
   << { \voiceOne <e' g'!>2^\markup \italic "I° Tempo" <ais' cis''>8 r8 }
-     \new Voice { \voiceTwo ais4 cis' fis8 s8 } >> \oneVoice |           % 60
+     \new Voice { \voiceTwo cis'4 ais fis8 s8 } >> \oneVoice |           % 60
   \key b \minor
   b8\mf <b' d''> <d'' fis''> <b' d''> <d'' fis''> <b' d''> |             % 61
   % --- manuscript page 6 (09512-06) ---
