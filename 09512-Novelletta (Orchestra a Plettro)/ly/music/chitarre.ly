@@ -46,8 +46,8 @@ chitarre = {
   % --- manuscript page 4 (09512-04) ---
   d'4 <a' d'' fis''> cis' |                                              % 39
   b4 <a' d'' fis''> a |                                                  % 40 CHECK beat 3
-  <ais cis' e'>8 r8 r4 r4 |                                              % 41 CHECK chord
-  <ais cis' e'>8 r8 r4 r4 |                                              % 42 CHECK chord
+  fis8 r8 r4 r4 |                                                        % 41
+  fis8 r8 r4 r4 |                                                        % 42
   <gis' b' d''>4 <g' b' e''> <b' e'' a''> |                              % 43 CHECK accidentals (fingerings 0 0 0 / 2 3 1 not reproduced)
   g''16(_\markup \italic "sentito" e'' dis'' fis'') <gis'' b'' d''' e'''>4 <a'' cis''' e'''>8\fermata r8 | % 44 CHECK whole bar
   \key b \major

@@ -35,10 +35,8 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 ### Manuscript page 4 (bars 39–49)
 
 - bar 40, Chitarre: beat 3
-- bar 41, Chitarre: chord
 - bar 41, Mandole: first and last note
 - bar 41, Mandoloncelli: uncertain reading
-- bar 42, Chitarre: chord
 - bar 42, Mandoloncelli: uncertain reading
 - bar 43, Chitarre: accidentals (fingerings 0 0 0 / 2 3 1 not reproduced)
 - bar 43, Mandole: uncertain reading
