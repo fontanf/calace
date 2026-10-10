@@ -56,8 +56,8 @@ mandole = {
   dis''8(_\markup \italic "rall." e'' gis'' ais'' b''4) |               % 48
   dis''2.^\markup \italic "Tempo" |                                     % 49
   % --- manuscript page 5 (09512-05) ---
-  dis''2.\> |                                                            % 50 CHECK
-  gis''2(\! e''4) |                                                      % 51 CHECK
+  dis''2.\> |                                                            % 50
+  fis''2(\! e''4) |                                                     % 51
   dis''8\staccato_\markup \italic "lento" r8 b'8\>\staccato r8 ais'8\staccato r8\! | % 52
   dis'16(\mf b cis' dis' fis'4 e') |                                     % 53
   R2. |                                                                  % 54

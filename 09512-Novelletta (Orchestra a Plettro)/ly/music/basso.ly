@@ -56,8 +56,8 @@ basso = {
   b,4 r4 r4 |                                                            % 48
   gis,4^\markup \italic "Tempo" r4 r4 |                                 % 49
   % --- manuscript page 5 (09512-05) ---
-  dis,4 r4 r4 |                                                          % 50 CHECK
-  b,4 r4 e4 |                                                            % 51 CHECK
+  dis,4 r4 r4 |                                                          % 50
+  b,4 r4 e4 |                                                            % 51
   dis8\staccato_\markup \italic "lento" r8 r4 r4 |                       % 52
   R2. |                                                                  % 53
   R2. |                                                                  % 54

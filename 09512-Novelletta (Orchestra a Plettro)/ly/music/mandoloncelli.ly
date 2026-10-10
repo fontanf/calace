@@ -57,7 +57,7 @@ mandoloncelli = {
   dis4^\markup \italic "Tempo" dis16( b, cis dis) gis8 r8 |              % 49
   % --- manuscript page 5 (09512-05) ---
   dis4 dis16( b, cis dis) fisis8 r8 |                                    % 50
-  <cis eis>2 gis16( eis fis gis) |                                       % 51 CHECK
+  dis2 gis16( e fis gis) |                                              % 51
   <dis b>8\staccato_\markup \italic "lento" r8 <dis b>8\>\staccato r8 <e ais>8\staccato r8\! | % 52
   dis16(\mf b, cis dis fis4 e) |                                         % 53
   R2. |                                                                  % 54

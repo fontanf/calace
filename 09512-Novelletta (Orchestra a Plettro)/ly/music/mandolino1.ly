@@ -60,10 +60,10 @@ mandolinoI = {
   dis''16( b' cis'' dis'' fisis''2) |                                    % 50
   dis''16(\< b' cis'' dis'' fis'' gis'' b'' ais'') b''4\! |              % 51
   b''8\staccato_\markup \italic "lento" r8 fis''8\>\staccato r8 cis''8\staccato r8\! | % 52 CHECK (small notes above not reproduced)
-  b'2\pp cis''4\glissando |                                              % 53 CHECK
-  dis''2 cis''4 |                                                        % 54 CHECK
-  b'2 cis''4\glissando |                                                 % 55 CHECK
-  fis''2 gis''4 |                                                        % 56 CHECK small notes before gis'' not reproduced
+  b'2\pp cis''4\glissando |                                             % 53 CHECK small note before cis'' not reproduced
+  fis''2 cis''4 |                                                       % 54 CHECK first note F# or D#; small note before cis'' not reproduced
+  b'2 cis''4\glissando |                                                % 55 CHECK small note before cis'' not reproduced
+  fis''2 gis''4 |                                                       % 56 CHECK small notes before gis'' not reproduced
   b''2 ais''4 |                                                          % 57
   b''2_\markup \italic "molto lento" a''!4\fermata |                     % 58 CHECK
   b''2 r4 |                                                              % 59

@@ -60,15 +60,15 @@ mandolinoII = {
   cis'8(_\markup \italic "rall." e' gis' ais' b'4) |                     % 48
   gis'2.^\markup \italic "Tempo" |                                      % 49
   % --- manuscript page 5 (09512-05) ---
-  fisis'2.\< |                                                           % 50 CHECK
-  eis'2.\! |                                                             % 51 CHECK
+  fisis'2.\< |                                                           % 50
+  fis'2 gis'16( e' fis' gis') |                                         % 51 CHECK upper notes D# F# at the end of the bar not reproduced
   b'8\staccato_\markup \italic "lento" r8 <dis' b'>8\>\staccato r8 <e' ais'>8\staccato r8\! | % 52
   <dis' b'>2\pp <e' ais'>4 |                                             % 53
   <dis' b'>2 <e' ais'>4 |                                                % 54
   <dis' b'>2 <e' ais'>4 |                                                % 55
   <dis' b'>2 b'4 |                                                       % 56
-  b'2 fis'16( dis' gis' ais') |                                          % 57 CHECK 16ths
-  dis''2_\markup \italic "molto lento" e''4\fermata |                    % 58 CHECK
+  b'2 fis'16( dis' gis' ais') |                                          % 57
+  dis''2_\markup \italic "molto lento" e''4\fermata |                    % 58
   dis''2.\< |                                                            % 59
   e''4\!\f^\markup \italic "I° Tempo" cis''8( b' ais'4) |                % 60
   \key b \minor
