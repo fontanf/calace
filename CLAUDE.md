@@ -116,6 +116,25 @@ Tool notes:
   check them against each other (user tip). Mandoloncelli often double them too.
 - The Mandolini II part may be divided ("in orchestra divisi"). Write it as two voices on one staff.
 
+## Lessons from the user's corrections (Novelletta, bars 1–50)
+
+These are the systematic errors of the first draft. Check for each of them
+while reading:
+- **Never fill a gap from a pattern.** When a bar was hard to read, I filled it
+  with a figure borrowed from another part (the mandolins) or from an earlier
+  bar. Every such bar turned out wrong (guitar bars 29, 48, 49, 50). Read every
+  note, and mark `% CHECK` instead of guessing a plausible figure.
+- **Guitar texture is thinner than it looks.** The guitar often plays a single
+  bass note, a melodic line, or two voices (bars 16, 29, 41, 42, 47), where the
+  first draft had full chords.
+- **Ledger lines.** A pile of short horizontal strokes is ledger lines around
+  one note, not a chord or tremolo strokes (bars 37, 44). Count the ledger lines
+  to fix the octave of low guitar notes: notes on the 1st, 2nd and 3rd ledger
+  below the staff are C4, A3 and F3; notes hanging under them are B3, G3 and E3.
+- **Hollow heads** are two strokes, an arc plus a bowl. Do not count the arc as
+  an extra note (the bogus B in Mandolini I bar 49).
+- **Key signature in a key change.** In the B major section, an unmarked G is G♯ (bar 49).
+
 ## Scores
 
 ### 09512 — Novelletta, Op. 95 (Orchestra a Plettro)
