@@ -119,10 +119,10 @@ mandolinoI = {
   b''8( gis''16 ais'' b''8 ais''16 gis'' fis''4) |                       % 104 CHECK whole bar
   dis''16( e'' fis'' gis'') fis''8-> fis''-> gis''-> ais''-> |           % 105 CHECK
   % --- manuscript page 10 (09512-10) ---
-  ais''16( b'' ais'' b'') cis'''4 gis''4 |                               % 106 CHECK whole bar
+  ais''16( b'' ais'' b'') cis'''4 ais''4 |                              % 106 CHECK first four notes
   dis''8(\ppp_\markup \italic "e sempre più lento" fis'' ais'' b'' dis''' fis''') | % 107 CHECK (tremolo)
   b''2.~ |                                                               % 108 CHECK
   b''4 r4 r4 |                                                           % 109 CHECK
-  e'2. |                                                                 % 110 CHECK
-  <b dis''>8 r8 r4 r4 |                                                  % 111 CHECK
+  b2. |                                                                 % 110
+  <b dis'' b''>8 r8 r4 r4 |                                             % 111 CHECK
 }

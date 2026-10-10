@@ -118,10 +118,10 @@ mandole = {
   fis''2. |                                                              % 104 CHECK
   dis''16( e'' fis'' gis'') fis''8 fis'' gis'' ais'' |                   % 105 CHECK
   % --- manuscript page 10 (09512-10) ---
-  b''16( fis'' gis'' fis'') b''4 eis'8( fis') |                          % 106 CHECK
-  b'2.\ppp |                                                             % 107 CHECK
+  b''16( fis'' gis'' fis'') b''4 gis'8( ais') |                         % 106 CHECK first four notes
+  b'2.\ppp |                                                            % 107
   b2. |                                                                  % 108 CHECK
-  ais'2.( |                                                              % 109 CHECK
-  ais'2.) |                                                              % 110 CHECK
+  b'2.( |                                                               % 109
+  b'2.) |                                                               % 110
   b8 r8 r4 r4 |                                                          % 111
 }

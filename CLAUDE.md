@@ -61,8 +61,9 @@ PDFs. Their names are prefixed with the piece, e.g. `09512-Novelletta-score.pdf`
 - Key changes are written in each part's music, e.g. `\key b \major`.
 - `instruments.ly` sets `Hairpin.minimum-length = 5`, because Calace often puts
   `< >` over a single long note.
-- `NOTES.md` can be regenerated from the `% CHECK` comments with the small
-  Python snippet used for the Novelletta (group by manuscript page, part, bar).
+- Regenerate the list in `NOTES.md` after each batch of changes:
+  `.venv/bin/python tools/checks_to_notes.py "<piece>/ly" 1:1-13 2:14-26 ...`
+  (manuscript page → bar range).
 
 ## Workflow that worked
 
@@ -140,6 +141,16 @@ while reading:
   and use `heads.py` only as a cross-check.
 - **Hollow heads** are two strokes, an arc plus a bowl. Do not count the arc as
   an extra note (the bogus B in Mandolini I bar 49).
+- **Read the harmony of the whole bar first.** In the second pass, working out
+  the chord from the bass and the clearer parts (e.g. bars 92–99 of the
+  Novelletta: F7/A → B → C♯dim7 → F♯7 → B7 → C♯ø7 → F♯7) fixed many misread
+  inner notes and basses. Calace's progressions are conventional: circles of
+  fifths, ii–V, diminished sevenths, and a tonic pedal at the end.
+- **Tremolo strokes versus ledger lines.** In the tremolo sections, short strokes *on the stem*
+  are tremolo marks; strokes stacked *under or over the head* are ledger lines.
+- **Repeated passages are often written an octave higher** when they return
+  (Mandolini I bars 100–102 = bars 45–47 up an octave). Compare with the
+  first occurrence, but still read the octave from the scan.
 - **Key signature in a key change.** In the B major section, an unmarked G is G♯ (bar 49).
 
 ## Scores
@@ -149,8 +160,7 @@ while reading:
 - B minor, 3/4, half note = 72. The B major tremolo section starts at C (bar 45)
   and has repeats. The opening returns at bar 61.
 - 10 manuscript pages, 111 bars. Rehearsal letters: A = 13, B = 31, C = 45, D = 59, E = 85, F = 100.
-- Status: the first draft is complete. The user has proofread bars 1–26 only.
-  Bars 27–111 still carry `% CHECK` marks, listed in `ly/NOTES.md`. Bars 86–111
-  (manuscript pages 8–10) are the least reliable, especially the *fff* climax
-  (bars 92–96) and the ending.
+- Status: the user has proofread bars 1–26 and part of 27–50 (guitar, mostly).
+  A second pass re-read the guitar from bar 50 and every part in bars 86–111.
+  The remaining doubts are the `% CHECK` comments listed in `ly/NOTES.md`.
 - Known layout to-do: consecutive empty bars are not merged into multi-bar rests in the parts.

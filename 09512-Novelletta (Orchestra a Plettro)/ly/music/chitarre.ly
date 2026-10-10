@@ -120,10 +120,10 @@ chitarre = {
   <dis' fis' b'>4 <eis' gis' b'>2 |                                      % 104 CHECK
   <b dis' fis' b'>2 dis''4 |                                             % 105 CHECK
   % --- manuscript page 10 (09512-10) ---
-  <fis' ais' cis''>2 \grace { gis''16 } fis''8 ais'8 |                   % 106 CHECK
+  <fis' ais' cis''>2 \grace { gis''16 } ais''8 ais'8 |                   % 106 CHECK
   <b dis' fis' b' dis''>2.\ppp\arpeggio |                                % 107 CHECK
-  <b dis' fis'>8\pp_\markup \italic "e lento assai" ais'( a' b' a' g') | % 108 CHECK
-  b8( ais b cis' b4) |                                                   % 109 CHECK
-  ais2. |                                                                % 110 CHECK
-  <b dis' fis'>8 r8 r4 r4 |                                              % 111 CHECK
+  <b' dis'' fis'' b''>8\pp_\markup \italic "e lento assai" gis''( fis'' ais'' fis'' dis'') | % 108 CHECK
+  b'8( gis' fis' gis' fis' cis') |                                      % 109 CHECK
+  <fis b>2. |                                                           % 110 CHECK
+  <b fis' b' dis''>8 r8 r4 r4 |                                         % 111 CHECK
 }

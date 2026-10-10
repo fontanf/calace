@@ -119,9 +119,9 @@ mandoloncelli = {
   b,2 fis4 |                                                             % 105 CHECK
   % --- manuscript page 10 (09512-10) ---
   e'2 gis8( ais) |                                                       % 106 CHECK
-  <fis b>2._\markup \italic "lento col canto" |                          % 107 CHECK
-  <b dis'>2.\ppp |                                                       % 108 CHECK
-  fis2.(_\markup \italic "col canto" |                                   % 109 CHECK
-  fis2.) |                                                               % 110 CHECK
+  <dis a>2._\markup \italic "lento col canto" |                        % 107 CHECK
+  <fis dis'>2.\ppp |                                                    % 108 CHECK
+  dis2.(_\markup \italic "col canto" |                                 % 109 CHECK D# or E
+  dis2.) |                                                              % 110
   b,8 r8 r4 r4 |                                                         % 111
 }
