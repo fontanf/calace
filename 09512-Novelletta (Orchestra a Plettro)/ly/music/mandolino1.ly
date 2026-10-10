@@ -110,12 +110,12 @@ mandolinoI = {
   fis''8(_\markup \italic "stentato" g''-> ais''-> b''-> fis''-> b'->) | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
   e''2( e''4) |                                                          % 97
-  dis''16( cis'' d'' e'' cis''8 b') fis'8( gis') |                       % 98 CHECK
-  ais'2\> b'8\fermata( ais')\! |                                         % 99 CHECK
-  fis''16(\pppp^\markup \italic "tremolo leggiero" gis'' ais'' b'' ais'' b'' cis''' gis'' fis'' gis'' fis'' dis'') | % 100 CHECK (cf. bar 45)
-  cis''4~ cis''16( dis'' cis'' b' cis'' dis'' cis'' b') |                % 101 CHECK (cf. bar 46)
-  cis''4~ cis''16( dis'' cis'' b' ais'8 b') |                            % 102 CHECK (cf. bar 47)
-  dis''16( e'' fis''8) fis''4 gis''8( fis'') |                           % 103 CHECK whole bar
+  dis''16( b' cis'' dis'') cis''8( b') fis'( gis') |                    % 98
+  ais'2\> e''4\fermata\! |                                             % 99 CHECK small notes D# B D# after the fermata not reproduced
+  fis'''16(\pppp^\markup \italic "tremolo leggiero" gis''' ais''' b''' ais''' b''' cis'''' gis''' fis''' gis''' fis''' dis''') | % 100 CHECK = bar 45 an octave higher
+  cis'''4~ cis'''16( dis''' cis''' b'' cis''' dis''' cis''' b'') |       % 101 CHECK = bar 46 an octave higher
+  cis'''4~ cis'''16( dis''' cis''' b'' ais''8 b'') |                    % 102 CHECK = bar 47 an octave higher
+  dis''16( e'' fis'' gis'') fis''4 gis''8( ais'') |                     % 103
   b''8( gis''16 ais'' b''8 ais''16 gis'' fis''4) |                       % 104 CHECK whole bar
   dis''16( e'' fis'' gis'') fis''8-> fis''-> gis''-> ais''-> |           % 105 CHECK
   % --- manuscript page 10 (09512-10) ---

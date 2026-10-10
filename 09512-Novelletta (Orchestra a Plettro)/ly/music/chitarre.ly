@@ -110,13 +110,13 @@ chitarre = {
   ais4\fff <fis' ais' cis''> <e' ais' cis''> |                           % 95 CHECK
   <b dis' fis' a' cis''>2 \tuplet 3/2 { b8(_\markup \italic "stentato" <b dis'> <b e'>) } | % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
-  ais4 cis' <e' g' cis''> |                                              % 97 CHECK
-  <b dis' fis'>4 r4 <dis b>4 |                                           % 98 CHECK
-  <cis' e' ais'>4\> <e' ais'> <e' ais' cis''>\fermata\! |                % 99 CHECK
-  <b dis' fis' b'>2\ppp b'4 |                                            % 100 CHECK
-  <b e' g'! b'>2 b'4 |                                                   % 101 CHECK
-  <b eis' gis' b' d''!>2 <b eis'>4 |                                     % 102 CHECK
-  <b dis' fis' b'>2. |                                                   % 103 CHECK
+  ais4 cis' <g'! b' e''> |                                              % 97 CHECK bass
+  <b fis' b' dis''>4 r4 <a dis'>4 |                                    % 98 CHECK beat 3
+  <cis' fis' ais' e''>4\> <ais' cis''> <cis' ais' cis'' fis''>\fermata\! | % 99 CHECK
+  <b dis' fis' b'>2\ppp b'4 |                                           % 100
+  <b e' g'! b'>2 g'4 |                                                  % 101
+  <b eis' gis'>2 <b eis' ais'>4 |                                       % 102 CHECK
+  <b dis' fis' b'>2 cis''4 |                                            % 103 CHECK grace notes before cis'' not reproduced
   <dis' fis' b'>4 <eis' gis' b'>2 |                                      % 104 CHECK
   <b dis' fis' b'>2 dis''4 |                                             % 105 CHECK
   % --- manuscript page 10 (09512-10) ---

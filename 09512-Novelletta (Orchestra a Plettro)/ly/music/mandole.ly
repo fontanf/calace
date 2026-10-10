@@ -110,11 +110,11 @@ mandole = {
   % --- manuscript page 9 (09512-09) ---
   ais2( a!4) |                                                           % 97 CHECK
   b4 r4 r4 |                                                             % 98
-  <ais' e''>2.\fermata |                                                 % 99 CHECK
-  fis'2.\ppp |                                                           % 100 CHECK
-  g'!2. |                                                                % 101 CHECK
-  eis'2( eis'4) |                                                        % 102 CHECK
-  b'2. |                                                                 % 103 CHECK
+  <cis'' e''>2.\fermata |                                               % 99
+  fis'2.\ppp |                                                          % 100
+  g'!2. |                                                               % 101
+  eis'2( ais'4) |                                                       % 102 CHECK
+  b'2. |                                                                % 103
   fis''2. |                                                              % 104 CHECK
   dis''16( e'' fis'' gis'') fis''8 fis'' gis'' ais'' |                   % 105 CHECK
   % --- manuscript page 10 (09512-10) ---

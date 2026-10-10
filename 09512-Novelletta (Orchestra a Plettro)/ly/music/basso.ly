@@ -108,9 +108,9 @@ basso = {
   fis4\fff r4 fis,4 |                                                    % 95
   b,2._\markup \italic "stentato" |                                     % 96
   % --- manuscript page 9 (09512-09) ---
-  e8( dis) b,2 |                                                         % 97
+  e8( dis) cis2 |                                                       % 97
   fis4 r4 fis,4 |                                                        % 98
-  fis,4 fis fis\fermata |                                                % 99 CHECK
+  fis,4 fis fis\fermata |                                               % 99
   b,4\ppp r4 r4 |                                                        % 100
   b,4 r4 r4 |                                                            % 101
   b,4 r4 b,4 |                                                           % 102

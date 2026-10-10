@@ -108,13 +108,13 @@ mandoloncelli = {
   e4\fff dis cis |                                                      % 95 CHECK
   b,2 \tuplet 3/2 { d8(_\markup \italic "stentato" dis cis) } |         % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
-  e8( dis) b,2 |                                                         % 97
-  cis2 dis4 |                                                            % 98 CHECK
-  d2\> fis4\fermata\! |                                                  % 99 CHECK
-  b,2.\pppp |                                                            % 100
-  b,2. |                                                                 % 101
-  b,2 b,4 |                                                              % 102 CHECK
-  b,2. |                                                                 % 103 CHECK
+  e8( dis) cis2 |                                                       % 97
+  cis2 dis4 |                                                           % 98
+  e2\> ais,4\fermata\! |                                                % 99
+  fis2.\pppp |                                                          % 100 CHECK
+  e2. |                                                                 % 101 CHECK
+  e2 e4 |                                                               % 102 CHECK E or E sharp
+  fis2 cis'4\glissando |                                                % 103 CHECK grace notes not reproduced
   fis4\glissando b2 |                                                    % 104 CHECK
   b,2 fis4 |                                                             % 105 CHECK
   % --- manuscript page 10 (09512-10) ---
