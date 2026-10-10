@@ -48,12 +48,12 @@ mandole = {
   ais4( cis'8) e'16( fis' a'4) |                                         % 41 CHECK first and last note
   ais'4( cis''8) e''16( fis'' a''4) |                                    % 42
   fis''4 <b' e''> cis'' |                                                % 43 CHECK
-  <gis' d''>2( <a' e''>8)\fermata r8 |                                   % 44 CHECK
+  <gis' d''>2( <a' e''>8)\fermata r8 |                                   % 44
   \key b \major
   fis''2.\pppp |                                                         % 45
   g''!2. |                                                               % 46
-  eis''2( eis''4) |                                                      % 47 CHECK
-  dis''8(_\markup \italic "rall." e'' fis'' gis'' ais'' b'') |           % 48 CHECK
+  eis''2( eis''4) |                                                      % 47
+  dis''8(_\markup \italic "rall." e'' gis'' ais'' b''4) |               % 48
   dis''2.^\markup \italic "Tempo" |                                     % 49
   % --- manuscript page 5 (09512-05) ---
   dis''2.\> |                                                            % 50 CHECK

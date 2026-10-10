@@ -48,13 +48,13 @@ basso = {
   fis4 r8 e16( fis g4) |                                                 % 41
   e4 r8 e16( fis g4) |                                                   % 42
   d4 b, cis |                                                            % 43
-  d2( fis8)\fermata r8 |                                                 % 44 CHECK
+  d2( fis8)\fermata r8 |                                                 % 44
   \key b \major
   b,4\pppp r4 r4 |                                                       % 45
   b,4 r4 r4 |                                                            % 46
   b,4 r4 r4 |                                                            % 47
   b,4 r4 r4 |                                                            % 48
-  gis,4^\markup \italic "Tempo" r4 r4 |                                 % 49 CHECK
+  gis,4^\markup \italic "Tempo" r4 r4 |                                 % 49
   % --- manuscript page 5 (09512-05) ---
   dis,4 r4 r4 |                                                          % 50 CHECK
   b,4 r4 e4 |                                                            % 51 CHECK

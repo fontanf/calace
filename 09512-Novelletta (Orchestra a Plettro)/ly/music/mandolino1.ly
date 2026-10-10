@@ -51,10 +51,10 @@ mandolinoI = {
   R2. |                                                                  % 43
   R2. |                                                                  % 44
   \key b \major
-  fis''16(\pppp^\markup \italic "tremolo leggiero" gis'' ais'' b'' ais'' b'' cis''' gis'' fis'' gis'' fis'' dis'') | % 45 CHECK 8th note
+  fis''16(\pppp^\markup \italic "tremolo leggiero" gis'' ais'' b'' ais'' b'' cis''' gis'' fis'' gis'' fis'' dis'') | % 45
   cis''4~ cis''16( dis'' cis'' b' cis'' dis'' cis'' b') |                % 46 CHECK 2nd group
   cis''4~ cis''16( dis'' cis'' b' ais'8 b') |                            % 47
-  fis'8(_\markup \italic "rall." b'16 cis'') cis''8( \grace { fis''16 gis'' } fis''8) dis''4 | % 48 CHECK rhythm
+  fis'8(_\markup \italic "rall." b'16 cis'') cis''8( \grace { fis''16 gis'' } fis''8) dis''4 | % 48
   dis''16(^\markup \italic "Tempo" b' cis'' dis'' gis''2) |             % 49
   % --- manuscript page 5 (09512-05) ---
   dis''16( b' cis'' dis'' fisis''2) |                                    % 50

@@ -51,13 +51,13 @@ mandolinoII = {
   d'2)\! r4 |                                                            % 40
   e''8( cis''16 b' ais'8) r8 r4 |                                        % 41
   e''8( cis''16 b' ais'8) r8 r4 |                                        % 42
-  fis'4( gis' b') |                                                      % 43 CHECK fis'
-  <b' d''>2( cis''8)\fermata r8 |                                        % 44 CHECK
+  fis'4( g' b') |                                                       % 43
+  <b' d''>2( cis''8)\fermata r8 |                                        % 44
   \key b \major
   fis'2.\pppp |                                                          % 45
   g'!2. |                                                                % 46
-  eis'2( eis'4) |                                                        % 47 CHECK
-  cis'8(_\markup \italic "rall." e' gis' ais' b'4) |                     % 48 CHECK
+  eis'2( eis'4) |                                                        % 47
+  cis'8(_\markup \italic "rall." e' gis' ais' b'4) |                     % 48
   gis'2.^\markup \italic "Tempo" |                                      % 49
   % --- manuscript page 5 (09512-05) ---
   fisis'2.\< |                                                           % 50 CHECK

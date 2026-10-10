@@ -45,16 +45,16 @@ mandoloncelli = {
   % --- manuscript page 4 (09512-04) ---
   a,2.( |                                                                % 39
   a,2) r4 |                                                              % 40
-  ais4( ais8) cis'16( e' fis'4) |                                        % 41 CHECK
-  ais4( ais8) cis'16( e' fis'4) |                                        % 42 CHECK
-  fis4 b <cis' e'> |                                                     % 43 CHECK
-  gis2( a8)\fermata r8 |                                                 % 44 CHECK
+  ais4( ais8) cis'16( e' fis'4) |                                        % 41
+  ais4( ais8) cis'16( e' fis'4) |                                        % 42
+  fis4 b <cis' e'> |                                                     % 43
+  gis2( a8)\fermata r8 |                                                 % 44
   \key b \major
   b,2.\pppp |                                                            % 45
   b,2. |                                                                 % 46
   b,2. |                                                                 % 47
-  b,8(_\markup \italic "rall." b, e e fis4) |                            % 48 CHECK
-  dis4^\markup \italic "Tempo" dis16( b, cis dis) gis8 r8 |              % 49 CHECK
+  b,8(_\markup \italic "rall." b, e e fis4) |                            % 48
+  dis4^\markup \italic "Tempo" dis16( b, cis dis) gis8 r8 |              % 49
   % --- manuscript page 5 (09512-05) ---
   dis4 dis16( b, cis dis) fisis8 r8 |                                    % 50
   <cis eis>2 gis16( eis fis gis) |                                       % 51 CHECK
