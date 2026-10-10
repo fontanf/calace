@@ -155,6 +155,12 @@ while reading:
   slurred to the main note, often a lower and upper neighbour such as C♯–D♯→C♯
   (guitar bars 103–106). Write them as `\grace { cis''16[( dis''] } cis''4)`.
   I first left them out, so look for them at every beat.
+- **Third-pass method (worked well):** once one part is fully proofread (here
+  the guitar), print all parts bar by bar (`tools/bars_side.py LY_DIR FIRST LAST`)
+  and check every part against that bar's confirmed chord. Most remaining errors
+  were notes outside the chord, nearly always misread hollow heads. Use
+  `tools/setbars.py PART.ly BAR 'code ## comment'` to replace bars, or
+  `BAR:clear x` to drop a CHECK.
 - **Key signature in a key change.** In the B major section, an unmarked G is G♯ (bar 49).
 
 ## Scores

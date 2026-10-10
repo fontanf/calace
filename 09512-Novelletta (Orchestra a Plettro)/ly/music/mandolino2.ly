@@ -112,12 +112,12 @@ mandolinoII = {
   e''4\fff dis''-> cis''-> |                                             % 95
   b'4_\markup \italic "stentato" ais'8( gis') fis'4 |                    % 96
   % --- manuscript page 9 (09512-09) ---
-  fis'2( g'4) |                                                          % 97
+  gis'2( g'!4) |                                                        % 97 CHECK G# then G natural (as the guitar)
   e'2 fis'8( gis') |                                                    % 98
   gis'4\> g'! fis'\fermata\! |                                          % 99
   fis'2(\pppp cis'4) |                                                  % 100
   g'!2 e'4 |                                                            % 101
-  eis'2( eis'4) |                                                       % 102
+  gis'2 e'4 |                                                           % 102 CHECK (was E#; the guitar has E natural)
   dis'16( cis' dis' e') fis'4 gis'8( ais') |                            % 103
   ais'8( b') cis''2 |                                                    % 104 CHECK
   cis'16( dis' e' fis') fis'8-> fis'-> gis'-> ais'-> |                  % 105 CHECK first four notes
