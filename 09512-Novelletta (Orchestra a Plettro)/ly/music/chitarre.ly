@@ -18,7 +18,8 @@ chitarre = {
   % --- manuscript page 2 (09512-02) ---
   <dis' b'>8 c''! fis' c'' b' a' |                                       % 14
   e8 <g' b'> <b' e''> <g' b'> <b' e''> <g' b'> |                         % 15
-  g8 <e' g' b'> <dis' g' b'> <e' g' b'> <fis' g' b'> <g' b'> |           % 16
+  << { \voiceOne g8 <g' b'> <g' b'> <g' b'> <g' b'> <g' b'> }
+     \new Voice { \voiceTwo g8 e' dis' e' fis' g' } >> \oneVoice |       % 16
   <e gis' d'' e''>8 r8 r4 r4 |                                           % 17
   <d' gis' b' e''>8\pp r8 r4 r4 |                                        % 18
   << { <a' c''! e''>4 s2 } \\ { c'!4 a8( b c' e') } >> |                 % 19
