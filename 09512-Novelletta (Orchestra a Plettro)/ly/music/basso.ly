@@ -103,8 +103,8 @@ basso = {
   f!2\! g4 |                                                             % 90
   c!2._\markup \italic "cresc." |                                      % 91
   a,4\pp ees ees |                                                       % 92
-  b,2. |                                                                 % 93 CHECK
-  cis2. |                                                                % 94 CHECK
+  b,2. |                                                                 % 93
+  cis2. |                                                                % 94
   fis4\fff r4 fis,4 |                                                    % 95
   b,2._\markup \italic "stentato" |                                     % 96
   % --- manuscript page 9 (09512-09) ---

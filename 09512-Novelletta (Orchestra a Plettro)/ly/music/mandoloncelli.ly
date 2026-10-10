@@ -98,13 +98,13 @@ mandoloncelli = {
   % --- manuscript page 8 (09512-08) ---
   r8\ppp d( ees e! f! ees) |                                             % 86
   d4 bes,2 |                                                             % 87
-  r8 bes,( b,! d ees d) |                                                % 88 CHECK
+  r8 bes,( b,! d ees d) |                                               % 88 CHECK first note B flat (from the flat sign) then B natural
   des2.\< |                                                             % 89 CHECK
   c!2\! bes,4 |                                                          % 90
   c!4(_\markup \italic "cresc." ees g) |                                 % 91
   a,8( ees f ges f ees) |                                                % 92
-  b,4 b, ais, |                                                         % 93 CHECK
-  ais,4 cis e |                                                         % 94 CHECK
+  b,4 b, a, |                                                           % 93
+  ais,4 cis e |                                                         % 94
   e4\fff dis cis |                                                      % 95
   b,2 \tuplet 3/2 { d8(_\markup \italic "stentato" cis c!) } |          % 96
   % --- manuscript page 9 (09512-09) ---

@@ -103,8 +103,8 @@ mandole = {
   f'!2\! g'4 |                                                           % 90
   c'!2._\markup \italic "cresc." |                                       % 91
   r8 ees'8( f' ges' f' ees') |                                           % 92
-  dis'4 b! ais |                                                         % 93 CHECK
-  cis'4 e' g' |                                                          % 94 CHECK
+  dis'4 b! ais |                                                         % 93
+  cis'4 e' g' |                                                          % 94
   ais'4\fff fis' e' |                                                    % 95
   eis'2 \tuplet 3/2 { cis'8(_\markup \italic "stentato" dis' e'!) } |    % 96 CHECK
   % --- manuscript page 9 (09512-09) ---
