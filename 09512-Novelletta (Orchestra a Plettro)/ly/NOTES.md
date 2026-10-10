@@ -17,7 +17,6 @@ Generated from the `% CHECK` comments in `music/*.ly` (bar numbers are the editi
 - bar 27, Chitarre: beat 3
 - bar 28, Basso: e or f
 - bar 28, Chitarre: uncertain reading
-- bar 29, Chitarre: chords
 - bar 30, Mandolini I: grace notes
 - bar 30, Mandolini II: cis'
 - bar 31, Mandolini II: lowest note

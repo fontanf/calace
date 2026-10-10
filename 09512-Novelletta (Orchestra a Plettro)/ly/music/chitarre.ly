@@ -33,7 +33,7 @@ chitarre = {
   % --- manuscript page 3 (09512-03) ---
   cis'8\p <a' cis'' g''> <a' cis'' fis''> <a' cis'' e''> <g' dis''> <g' cis'' e''> | % 27 CHECK beat 3
   bes8 <e' g'> e <e' g' cis''> <e' g' cis''> <e' g' cis''> |             % 28 CHECK
-  a8 <e' g' cis''> <e' g' cis''> <e' g' cis''> <e' g' cis''> <e' g' cis''> | % 29 CHECK chords
+  a8 <e' g' d''> <e' g' cis''> <e' g' b'> <g bes'> <e' a'> |             % 29
   fis8\< <a' d''> <d'' fis''> <a' d''> <d'' fis''> <a' d''> |            % 30
   dis'8\!\pp <a' c''! fis''> <a' c'' fis''> <a' c'' fis''> <a' c'' fis''> <a' c'' fis''> | % 31
   e'8 <g' b' e''> <g' b' e''> <g' b' e''> <g' b' e''> <g' b' e''> |      % 32
