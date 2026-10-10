@@ -75,13 +75,13 @@ mandole = {
   fis''4.\> d''8( b' fis') |                                             % 64
   R2.\! |                                                                % 65
   <ais' e''>2.\< |                                                       % 66
-  dis''4\! e''2 |                                                        % 67 CHECK
-  fis''4 b''2 |                                                          % 68 CHECK
-  b'4( g' b') |                                                          % 69 CHECK
-  e'2. |                                                                 % 70 CHECK
-  c'!4 a' g' |                                                           % 71 CHECK
-  f'!2 d'4 |                                                             % 72 CHECK
-  <g b d'>2.^\markup \italic "affrett." |                                % 73 CHECK
+  dis''4\! e''2 |                                                        % 67
+  fis''4 b''2 |                                                          % 68
+  b'4( g' b') |                                                          % 69
+  b2. |                                                                 % 70 CHECK B or C#
+  c'!4 a' g' |                                                           % 71
+  f'!2 d'4 |                                                             % 72
+  <a c'>2.^\markup \italic "affrett." |                                 % 73 CHECK chord
   % --- manuscript page 7 (09512-07) ---
   f'!4 b'8( a') gis'4 |                                                  % 74
   d''2( d''4) |                                                          % 75 CHECK

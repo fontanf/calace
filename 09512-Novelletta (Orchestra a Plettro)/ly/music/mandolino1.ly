@@ -76,12 +76,12 @@ mandolinoI = {
   d''2. |                                                                % 64
   r8\pp fis'8(\< b' d'' fis'' b'')\! |                                   % 65
   \grace { ais''16[( b''] } ais''8)\( e'' g''4\)( fis''8 e'') |          % 66
-  dis''2( c''!8 b') |                                                    % 67 CHECK c''
+  dis''2( c''!8 b') |                                                    % 67
   a''2 g''8( fis'') |                                                    % 68
-  fis''8( e'' dis'' e'' fis'' g'') |                                     % 69 CHECK last note g'' or a''
+  fis''8( e'' dis'' e'' fis'' g'') |                                     % 69
   a''8(_\markup \italic "cresc." g'' fis'' g'' a'' b'') |                % 70
-  <g'' c'''!>2.\p |                                                      % 71 CHECK
-  c'''4( a'' f''!) |                                                     % 72 CHECK
+  <g'' c'''!>2.\p |                                                      % 71
+  <g'' c'''!>4( a'' f''!) |                                             % 72
   e''4 r8 a'8(_\markup \italic "affrett." b' c''!) |                     % 73
   % --- manuscript page 7 (09512-07) ---
   d''4. f''!8( e'' d'') |                                                % 74

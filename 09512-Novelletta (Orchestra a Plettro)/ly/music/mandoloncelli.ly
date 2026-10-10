@@ -78,7 +78,7 @@ mandoloncelli = {
   b4) dis2~ |                                                            % 67
   dis2. |                                                                % 68
   e2. |                                                                  % 69
-  g,2. |                                                                 % 70 CHECK
+  b,2. |                                                                % 70
   a,8( c! e a c'! e') |                                                  % 71
   f!2 d4 |                                                               % 72
   a,8( e, a, c e a) |                                                    % 73 CHECK

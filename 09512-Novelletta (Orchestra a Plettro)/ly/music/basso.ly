@@ -78,10 +78,10 @@ basso = {
   b,4 r4 r4 |                                                            % 67
   dis4 r4 r4 |                                                           % 68
   e4 r4 r4 |                                                             % 69
-  b,4 r4 r4 |                                                            % 70 CHECK
-  a,2 g,4 |                                                              % 71 CHECK
+  b,4 r4 r4 |                                                            % 70
+  a,2 g,4 |                                                              % 71
   f,!4 f! d |                                                            % 72
-  g,2._\markup \italic "affrett." |                                      % 73
+  a,2._\markup \italic "affrett." |                                     % 73
   % --- manuscript page 7 (09512-07) ---
   b4 gis e |                                                             % 74
   a,2. |                                                                 % 75

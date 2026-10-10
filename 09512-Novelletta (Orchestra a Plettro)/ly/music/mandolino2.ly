@@ -76,7 +76,7 @@ mandolinoII = {
   % --- manuscript page 6 (09512-06) ---
   g''2( fis''8 e'') |                                                    % 62
   ais''4. ais''8( cis''') e'' |                                          % 63
-  d''2(\> fis'4) |                                                       % 64 CHECK
+  d''2(\> fis'4) |                                                       % 64
   b8\!\pp r8 r4 r4 |                                                     % 65 CHECK pitch
   r4 cis''8( b' ais'4) |                                                 % 66
   fis'8( g'! a' g' fis' a') |                                            % 67
@@ -84,7 +84,7 @@ mandolinoII = {
   g'4( fis'8 g' a' b') |                                                 % 69
   a'8( g' fis' g' a' b') |                                               % 70
   <a' c''!>2.\p |                                                        % 71
-  f''!4 f''8( c''! a' b') |                                              % 72 CHECK
+  <a' f''!>4 f''8( c''! a' b') |                                        % 72
   c''!4 r8 a'8( b' c'') |                                                % 73
   % --- manuscript page 7 (09512-07) ---
   b'4. a'8 gis'( d'') |                                                  % 74
