@@ -113,7 +113,7 @@ chitarre = {
   gis4 cis' <g'! b' e''> |                                              % 97
   <fis fis' b' dis''>4 r4 <b dis'>4 |                                   % 98
   <fis fis' ais' e''>4\> <ais' cis'' g''> <fis ais' cis'' fis''>\fermata\! | % 99 CHECK upper notes
-  <b dis' fis' b'>2\ppp b'4 |                                           % 100
+  <b fis' b' dis''>2\ppp b'4 |                                           % 100
   <b e' g'! b'>2 g'4 |                                                  % 101
   <b eis' gis'>2 <b eis' ais'>4 |                                       % 102 CHECK
   <b dis' fis' b'>2 cis''4 |                                            % 103 CHECK grace notes before cis'' not reproduced
