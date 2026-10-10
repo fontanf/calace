@@ -63,7 +63,7 @@ chitarre = {
   <b fis' b' dis''>8\pp r8 r4 r4 |                                       % 53
   <b fis' b' dis''>16(\mf b cis' dis' fis'4 e') |                        % 54
   R2. |                                                                  % 55
-  <b dis' fis' b' dis''>16( b cis' dis' fis'4 e') |                      % 56 CHECK chord voicing
+  <b fis' b' dis''>16( b cis' dis' fis'4 e') |                           % 56
   dis'16( fis' b' cis'') dis''( cis'' b' cis'') <gis' b' dis''~>4 |      % 57
   dis''16_\markup \italic "molto lento" e''( fis'' g''! fis''8) r8 <e' b' cis'' e''>4\fermata | % 58
   <b fis' b' d''!>2.\ff |                                               % 59
