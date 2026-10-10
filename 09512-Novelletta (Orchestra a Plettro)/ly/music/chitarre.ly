@@ -100,7 +100,7 @@ chitarre = {
   % --- manuscript page 8 (09512-08) ---
   <f! aes' c''! f''!>8\ppp d'( ees' e'! f'! ees') |                       % 86
   bes4 <aes' d'' f''!> <aes' d'' fis''> |                               % 87 CHECK bass octave
-  <ees' g'>8 bes( c'! c' ees' c') |                                     % 88 CHECK
+  <ees' g'>8 bes( c'! d' ees' d') |                                     % 88 CHECK
   des'4\< <g' bes' des''> <g' bes' des''>\! |                            % 89 CHECK
   f4 <f'! aes' c''!> <f' aes' c''> |                                    % 90
   c'!4_\markup \italic "cresc." <ees' g' c''!> <ees' g' c''> |          % 91
