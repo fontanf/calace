@@ -91,7 +91,7 @@ chitarre = {
   <d' a' c''! fis''>8 fis' a' c'' ees'' a'' |                           % 77
   <a fis''>8 c''! <fis'-3 a'-1 ees''-4> g' fis' d' |                            % 78
   g8 <f'! aes' b'!> <aes' b' f''> <f' aes' b'> <aes' b' f''> <f' aes' c''!> | % 79
-  <g d' g' b' f''!>8\ff d' c'! b aes' g' |                              % 80
+  <b d' g' b' f''!>8\ff d' c'! b aes' g' |                              % 80
   <c' ees' g' c''!>8 r8 r4 r4 |                                          % 81
   <c' ees' g' c''!>8\> r8 r4 r4 |                                        % 82
   c'!8\pp-. fis'-. a'-. c''-. ees''-. fis''-. |                          % 83 CHECK
