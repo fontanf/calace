@@ -116,11 +116,11 @@ chitarre = {
   <b fis' b' dis''>2\ppp b'4 |                                           % 100
   <b e' g'!>2 g'4 |                                                  % 101
   <b e' gis'>2 <b e' ais'>4 |                                       % 102
-  <b fis' b'>2 cis''4 |                                            % 103 CHECK grace notes before cis'' not reproduced
-  <dis' fis' b'>4 <eis' gis' b'>2 |                                      % 104 CHECK
-  <b dis' fis' b'>2 dis''4 |                                             % 105 CHECK
+  <b fis' b'>2 \grace { cis''16[( dis''] } cis''4) |                    % 103
+  <b' dis'' fis''>2 \grace { cis''16[( dis''] } cis''4) |               % 104 CHECK chord
+  <b fis' b'>2 \grace { cis''16[( dis''] } cis''4) |                    % 105
   % --- manuscript page 10 (09512-10) ---
-  <fis' ais' cis''>2 \grace { gis''16 } ais''8 ais'8 |                   % 106 CHECK
+  <fis' ais' cis''>2 \grace { gis''16[( ais''] } gis''8) ais'8 |        % 106 CHECK small notes and the note after them
   <b dis' fis' b' dis''>2.\ppp\arpeggio |                                % 107 CHECK
   <b' dis'' fis'' b''>8\pp_\markup \italic "e lento assai" gis''( fis'' ais'' fis'' dis'') | % 108 CHECK
   b'8( gis' fis' gis' fis' cis') |                                      % 109 CHECK

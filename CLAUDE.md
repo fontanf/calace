@@ -151,6 +151,10 @@ while reading:
 - **Repeated passages are often written an octave higher** when they return
   (Mandolini I bars 100–102 = bars 45–47 up an octave). Compare with the
   first occurrence, but still read the octave from the scan.
+- **Grace notes.** Calace writes pairs of small notes, double-beamed and
+  slurred to the main note, often a lower and upper neighbour such as C♯–D♯→C♯
+  (guitar bars 103–106). Write them as `\grace { cis''16[( dis''] } cis''4)`.
+  I first left them out, so look for them at every beat.
 - **Key signature in a key change.** In the B major section, an unmarked G is G♯ (bar 49).
 
 ## Scores
